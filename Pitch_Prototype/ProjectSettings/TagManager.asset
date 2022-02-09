@@ -12,6 +12,7 @@ TagManager:
   - slide
   - HorWallRun
   - Checkpoint
+  - JumpPad
   layers:
   - Default
   - TransparentFX
