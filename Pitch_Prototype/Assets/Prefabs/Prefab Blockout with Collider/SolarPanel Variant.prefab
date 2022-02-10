@@ -259,6 +259,10 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: -7849268929617644440, guid: 0f0ff1493bc334e4c8bcd99150e1ac02, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: 03a94f62bf9e6a7478c06769a0ba4b97, type: 2}
     - target: {fileID: -6377331636116572262, guid: 0f0ff1493bc334e4c8bcd99150e1ac02, type: 3}
       propertyPath: m_LocalPosition.x
       value: 4.0156302
@@ -293,7 +297,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 919132149155446097, guid: 0f0ff1493bc334e4c8bcd99150e1ac02, type: 3}
       propertyPath: m_Name
-      value: SolarPanel
+      value: SolarPanel Variant
       objectReference: {fileID: 0}
     - target: {fileID: 3389427292126458697, guid: 0f0ff1493bc334e4c8bcd99150e1ac02, type: 3}
       propertyPath: m_LocalPosition.x
