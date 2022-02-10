@@ -13,6 +13,7 @@ GameObject:
   - component: {fileID: 3177871621254966240}
   - component: {fileID: 3177871621254966255}
   - component: {fileID: 3177871621254966254}
+  - component: {fileID: 2113106358}
   m_Layer: 11
   m_Name: HorWallRun
   m_TagString: wall
@@ -27,7 +28,7 @@ Transform:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 3177871621254966253}
-  m_LocalRotation: {x: -0, y: 0.7071068, z: -0, w: 0.7071068}
+  m_LocalRotation: {x: 0, y: 0.7071068, z: 0, w: 0.7071068}
   m_LocalPosition: {x: 11.5187, y: -18.7, z: 58.778397}
   m_LocalScale: {x: 13.785799, y: 9.574167, z: 6.5347013}
   m_Children:
@@ -113,6 +114,21 @@ Rigidbody:
   m_Interpolate: 0
   m_Constraints: 126
   m_CollisionDetection: 0
+--- !u!114 &2113106358
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 3177871621254966253}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -1465209106, guid: c8d0ad23af520fe46aabe2b1fecf6462, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  _data:
+    _json: '{"declarations":{"collection":{"$content":[],"$version":"A"},"$version":"A"}}'
+    _objectReferences: []
 --- !u!1 &3177871623026618087
 GameObject:
   m_ObjectHideFlags: 0
@@ -128,6 +144,7 @@ GameObject:
   - component: {fileID: 3177871623026618074}
   - component: {fileID: 3177871623026618073}
   - component: {fileID: 3177871623026618078}
+  - component: {fileID: 1241223712}
   m_Layer: 11
   m_Name: Wall run trigger
   m_TagString: HorWallRun
@@ -143,8 +160,8 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 3177871623026618087}
   m_LocalRotation: {x: -0.0000000018626451, y: -0, z: -0.009925864, w: 0.9999508}
-  m_LocalPosition: {x: 0.014962967, y: 0, z: -0.594764}
-  m_LocalScale: {x: 0.97033244, y: 0.99901795, z: 0.3313911}
+  m_LocalPosition: {x: 0.015, y: 0, z: -0.323}
+  m_LocalScale: {x: 0.97033244, y: 0.99901795, z: 0.58570397}
   m_Children: []
   m_Father: {fileID: 3177871621254966242}
   m_RootOrder: 0
@@ -259,3 +276,19 @@ MonoBehaviour:
     _json: '{"nest":{"source":"Macro","macro":0,"embed":null}}'
     _objectReferences:
     - {fileID: 11400000, guid: aab8d5e5a33c0f8409fa87b21c28af8d, type: 2}
+--- !u!114 &1241223712
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 3177871623026618087}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -57143145, guid: a040fb66244a7f54289914d98ea4ef7d, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  _data:
+    _json: '{"nest":{"source":"Macro","macro":0,"embed":null}}'
+    _objectReferences:
+    - {fileID: 11400000, guid: 5a1dfe62a41e46c45abb7105e37f0212, type: 2}
