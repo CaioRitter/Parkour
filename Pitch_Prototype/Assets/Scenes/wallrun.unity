@@ -196,6 +196,10 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 0}
     m_Modifications:
+    - target: {fileID: 818181213, guid: f136555109c96e544813e597eb344600, type: 3}
+      propertyPath: m_RootOrder
+      value: 8
+      objectReference: {fileID: 0}
     - target: {fileID: 7726340104531403909, guid: f136555109c96e544813e597eb344600, type: 3}
       propertyPath: m_Name
       value: Playercontroller
@@ -1087,8 +1091,9 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   _data:
-    _json: '{"declarations":{"collection":{"$content":[],"$version":"A"},"$version":"A"}}'
-    _objectReferences: []
+    _json: '{"declarations":{"collection":{"$content":[{"name":"Player","value":{"$content":0,"$type":"UnityEngine.Object"},"$version":"A"}],"$version":"A"},"$version":"A"}}'
+    _objectReferences:
+    - {fileID: 1279950754}
 --- !u!4 &1247784932
 Transform:
   m_ObjectHideFlags: 0
@@ -1103,6 +1108,11 @@ Transform:
   m_Father: {fileID: 0}
   m_RootOrder: 6
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &1279950754 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 7726340104531403909, guid: f136555109c96e544813e597eb344600, type: 3}
+  m_PrefabInstance: {fileID: 237897830}
+  m_PrefabAsset: {fileID: 0}
 --- !u!1001 &1307261645
 PrefabInstance:
   m_ObjectHideFlags: 0
