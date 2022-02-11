@@ -180,28 +180,6 @@ PrefabInstance:
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 5d57781492cba774ba6e16d4c0ae8305, type: 3}
---- !u!1 &167119321 stripped
-GameObject:
-  m_CorrespondingSourceObject: {fileID: 7726340104531403909, guid: f136555109c96e544813e597eb344600, type: 3}
-  m_PrefabInstance: {fileID: 237897830}
-  m_PrefabAsset: {fileID: 0}
---- !u!114 &167119326
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 167119321}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 99a9c787e5d1bbf48a389834c4a9641c, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  m_Path: {fileID: 0}
-  m_UpdateMethod: 0
-  m_PositionUnits: 1
-  m_Speed: 10
-  m_Position: 0
 --- !u!1 &219647172
 GameObject:
   m_ObjectHideFlags: 0
@@ -322,25 +300,6 @@ PrefabInstance:
     - target: {fileID: 7726340104531403913, guid: f136555109c96e544813e597eb344600, type: 3}
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 7726340104531403915, guid: f136555109c96e544813e597eb344600, type: 3}
-      propertyPath: _data._json
-      value: '{"declarations":{"collection":{"$content":[{"name":"Shockwave","value":{"$content":0,"$type":"UnityEngine.Object"},"$version":"A"},{"name":"ShockwaveVisual","value":{"$content":1,"$type":"UnityEngine.Object"},"$version":"A"},{"name":"Mesh","value":{"$content":2,"$type":"UnityEngine.Object"},"$version":"A"},{"name":"Have
-        collided p","value":{"$content":3,"$type":"UnityEngine.Object"},"$version":"A"},{"name":"Have
-        collided A","value":{"$content":4,"$type":"UnityEngine.Object"},"$version":"A"},{"name":"Have
-        Collided R","value":{"$content":5,"$type":"UnityEngine.Object"},"$version":"A"},{"name":"Have
-        Collided K","value":{"$content":6,"$type":"UnityEngine.Object"},"$version":"A"},{"name":"Have
-        Collided O","value":{"$content":7,"$type":"UnityEngine.Object"},"$version":"A"},{"name":"Have
-        Collided U","value":{"$content":8,"$type":"UnityEngine.Object"},"$version":"A"},{"name":"Have
-        Collided r2","value":{"$content":9,"$type":"UnityEngine.Object"},"$version":"A"},{"name":"wallrunuppers","value":{"$content":false,"$type":"System.Boolean"},"$version":"A"},{"name":"WallRunUp","value":{"$content":false,"$type":"System.Boolean"},"$version":"A"},{"name":"wallrunupcd","value":{"$content":false,"$type":"System.Boolean"},"$version":"A"},{"name":"YSpeed","value":{"$content":0.0,"$type":"System.Single"},"$version":"A"},{"name":"MouseY","value":{"$content":0.0,"$type":"System.Single"},"$version":"A"},{"name":"Mousex","value":{"$content":0.0,"$type":"System.Single"},"$version":"A"},{"name":"Health","value":{"$content":3,"$type":"System.Int32"},"$version":"A"},{"name":"PlayerControler","value":{"$content":10,"$type":"UnityEngine.Object"},"$version":"A"},{"name":"HealthImage1","value":{"$content":11,"$type":"UnityEngine.Object"},"$version":"A"},{"name":"HealthImage2","value":{"$content":12,"$type":"UnityEngine.Object"},"$version":"A"},{"name":"HealthImage3","value":{"$content":13,"$type":"UnityEngine.Object"},"$version":"A"},{"name":"HealthImage4","value":{"$content":14,"$type":"UnityEngine.Object"},"$version":"A"},{"name":"L","value":{"$content":15,"$type":"UnityEngine.Object"},"$version":"A"},{"name":"R","value":{"$content":16,"$type":"UnityEngine.Object"},"$version":"A"},{"name":"CameraTarget","value":{"$content":17,"$type":"UnityEngine.Object"},"$version":"A"}],"$version":"A"},"$version":"A"}}'
-      objectReference: {fileID: 0}
-    - target: {fileID: 7726340104531403915, guid: f136555109c96e544813e597eb344600, type: 3}
-      propertyPath: _data._objectReferences.Array.size
-      value: 18
-      objectReference: {fileID: 0}
-    - target: {fileID: 7726340104531403915, guid: f136555109c96e544813e597eb344600, type: 3}
-      propertyPath: _data._objectReferences.Array.data[18]
-      value: 
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: f136555109c96e544813e597eb344600, type: 3}
