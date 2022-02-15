@@ -27,15 +27,15 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: -8679921383154817045, guid: ab18c3ef56accc74480d712749e93376, type: 3}
       propertyPath: m_LocalScale.x
-      value: 2.3561625
+      value: 3.2384
       objectReference: {fileID: 0}
     - target: {fileID: -8679921383154817045, guid: ab18c3ef56accc74480d712749e93376, type: 3}
       propertyPath: m_LocalScale.y
-      value: 2.3561625
+      value: 3.2384
       objectReference: {fileID: 0}
     - target: {fileID: -8679921383154817045, guid: ab18c3ef56accc74480d712749e93376, type: 3}
       propertyPath: m_LocalScale.z
-      value: 3.794892
+      value: 5.215845
       objectReference: {fileID: 0}
     - target: {fileID: -8679921383154817045, guid: ab18c3ef56accc74480d712749e93376, type: 3}
       propertyPath: m_LocalPosition.x
@@ -79,7 +79,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 919132149155446097, guid: ab18c3ef56accc74480d712749e93376, type: 3}
       propertyPath: m_Name
-      value: Big_Pipe1 Variant 1 (1)
+      value: Big_Pipe1 Variant 1
       objectReference: {fileID: 0}
     - target: {fileID: 919132149155446097, guid: ab18c3ef56accc74480d712749e93376, type: 3}
       propertyPath: m_Layer
