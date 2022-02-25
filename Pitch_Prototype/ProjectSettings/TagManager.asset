@@ -17,6 +17,7 @@ TagManager:
   - Ladder
   - Rail
   - RailExit
+  - Elevator
   layers:
   - Default
   - TransparentFX
