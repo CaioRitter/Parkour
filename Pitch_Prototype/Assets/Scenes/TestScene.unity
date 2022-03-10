@@ -5998,20 +5998,24 @@ PrefabInstance:
       value: 102
       objectReference: {fileID: 0}
     - target: {fileID: 4845560307426653863, guid: 1b8739dcd43b1594daf5b4ed1aad89fd, type: 3}
+      propertyPath: m_LocalScale.x
+      value: 10.033118
+      objectReference: {fileID: 0}
+    - target: {fileID: 4845560307426653863, guid: 1b8739dcd43b1594daf5b4ed1aad89fd, type: 3}
       propertyPath: m_LocalScale.y
-      value: 16.500313
+      value: 73.43637
       objectReference: {fileID: 0}
     - target: {fileID: 4845560307426653863, guid: 1b8739dcd43b1594daf5b4ed1aad89fd, type: 3}
       propertyPath: m_LocalPosition.x
-      value: 2.67
+      value: -5.9
       objectReference: {fileID: 0}
     - target: {fileID: 4845560307426653863, guid: 1b8739dcd43b1594daf5b4ed1aad89fd, type: 3}
       propertyPath: m_LocalPosition.y
-      value: 15.26
+      value: 42.73
       objectReference: {fileID: 0}
     - target: {fileID: 4845560307426653863, guid: 1b8739dcd43b1594daf5b4ed1aad89fd, type: 3}
       propertyPath: m_LocalPosition.z
-      value: -81.8
+      value: -81.789
       objectReference: {fileID: 0}
     - target: {fileID: 4845560307426653863, guid: 1b8739dcd43b1594daf5b4ed1aad89fd, type: 3}
       propertyPath: m_LocalRotation.w
@@ -8836,6 +8840,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1932345392}
   - component: {fileID: 1932345391}
+  - component: {fileID: 1932345393}
   m_Layer: 0
   m_Name: Directional Light
   m_TagString: Untagged
@@ -8919,6 +8924,21 @@ Transform:
   m_Father: {fileID: 0}
   m_RootOrder: 30
   m_LocalEulerAnglesHint: {x: 50, y: -30, z: 0}
+--- !u!114 &1932345393
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1932345390}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -1465209106, guid: c8d0ad23af520fe46aabe2b1fecf6462, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  _data:
+    _json: '{"declarations":{"collection":{"$content":[],"$version":"A"},"$version":"A"}}'
+    _objectReferences: []
 --- !u!1001 &1940853018
 PrefabInstance:
   m_ObjectHideFlags: 0
