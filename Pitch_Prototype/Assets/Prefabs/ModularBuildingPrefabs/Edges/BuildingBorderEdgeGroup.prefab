@@ -12,7 +12,7 @@ GameObject:
   - component: {fileID: 3832468641181653262}
   - component: {fileID: 4107997342010666015}
   - component: {fileID: 657979816133353667}
-  m_Layer: 0
+  m_Layer: 12
   m_Name: Cube.034
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -104,7 +104,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 1056978486729377622}
-  m_Layer: 0
+  m_Layer: 12
   m_Name: BuildingBorderEdgeGroup
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -140,7 +140,7 @@ GameObject:
   - component: {fileID: 8516183710564624279}
   - component: {fileID: 6092592237737903759}
   - component: {fileID: 657979816133353665}
-  m_Layer: 0
+  m_Layer: 12
   m_Name: Cube.036
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -235,7 +235,7 @@ GameObject:
   - component: {fileID: 9199433505987338105}
   - component: {fileID: 2594309892880353145}
   - component: {fileID: 657979816133353664}
-  m_Layer: 0
+  m_Layer: 12
   m_Name: Cube.035
   m_TagString: Untagged
   m_Icon: {fileID: 0}
