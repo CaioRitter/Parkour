@@ -6519,6 +6519,11 @@ PrefabInstance:
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: d249f8c292f5b2b4483fa704cdde2eca, type: 3}
+--- !u!1 &1234783295 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 4620651061211719371, guid: f136555109c96e544813e597eb344600, type: 3}
+  m_PrefabInstance: {fileID: 1674629324}
+  m_PrefabAsset: {fileID: 0}
 --- !u!1 &1239773165
 GameObject:
   m_ObjectHideFlags: 0
@@ -8513,6 +8518,10 @@ PrefabInstance:
       propertyPath: m_LocalPosition.z
       value: -9.57
       objectReference: {fileID: 0}
+    - target: {fileID: 3146852847311163393, guid: f136555109c96e544813e597eb344600, type: 3}
+      propertyPath: m_IsActive
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 7726340104531403909, guid: f136555109c96e544813e597eb344600, type: 3}
       propertyPath: m_Name
       value: Playercontroller
@@ -8560,6 +8569,25 @@ PrefabInstance:
     - target: {fileID: 7726340104531403913, guid: f136555109c96e544813e597eb344600, type: 3}
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7726340104531403915, guid: f136555109c96e544813e597eb344600, type: 3}
+      propertyPath: _data._json
+      value: '{"declarations":{"collection":{"$content":[{"name":"Shockwave","value":{"$content":0,"$type":"UnityEngine.Object"},"$version":"A"},{"name":"ShockwaveVisual","value":{"$content":1,"$type":"UnityEngine.Object"},"$version":"A"},{"name":"Mesh","value":{"$content":2,"$type":"UnityEngine.Object"},"$version":"A"},{"name":"wallrunuppers","value":{"$content":false,"$type":"System.Boolean"},"$version":"A"},{"name":"WallRunUp","value":{"$content":false,"$type":"System.Boolean"},"$version":"A"},{"name":"wallrunupcd","value":{"$content":false,"$type":"System.Boolean"},"$version":"A"},{"name":"YSpeed","value":{"$content":0.0,"$type":"System.Single"},"$version":"A"},{"name":"MouseY","value":{"$content":0.0,"$type":"System.Single"},"$version":"A"},{"name":"Mousex","value":{"$content":0.0,"$type":"System.Single"},"$version":"A"},{"name":"Health","value":{"$content":3,"$type":"System.Int32"},"$version":"A"},{"name":"PlayerControler","value":{"$content":3,"$type":"UnityEngine.Object"},"$version":"A"},{"name":"HealthImage1","value":{"$content":4,"$type":"UnityEngine.Object"},"$version":"A"},{"name":"HealthImage2","value":{"$content":5,"$type":"UnityEngine.Object"},"$version":"A"},{"name":"HealthImage3","value":{"$content":6,"$type":"UnityEngine.Object"},"$version":"A"},{"name":"HealthImage4","value":{"$content":7,"$type":"UnityEngine.Object"},"$version":"A"},{"name":"L","value":{"$content":8,"$type":"UnityEngine.Object"},"$version":"A"},{"name":"R","value":{"$content":9,"$type":"UnityEngine.Object"},"$version":"A"},{"name":"CameraTarget","value":{"$content":10,"$type":"UnityEngine.Object"},"$version":"A"},{"name":"Camera2","value":{"$content":11,"$type":"UnityEngine.Object"},"$version":"A"},{"name":"CameraChangeActive","value":{"$content":false,"$type":"System.Boolean"},"$version":"A"},{"name":"TagNumberUI","value":{"$content":12,"$type":"UnityEngine.Object"},"$version":"A"},{"name":"CanDoubleJump","value":{"$content":true,"$type":"System.Boolean"},"$version":"A"},{"name":"MovementStop","value":{"$content":false,"$type":"System.Boolean"},"$version":"A"},{"name":"InJumpPad","value":{"$content":false,"$type":"System.Boolean"},"$version":"A"},{"name":"jump
+        cooldown","value":{"$content":false,"$type":"System.Boolean"},"$version":"A"},{"name":"DoubleJumpForce","value":{"$content":10.0,"$type":"System.Single"},"$version":"A"},{"name":"DashSpeed","value":{"$content":40.0,"$type":"System.Single"},"$version":"A"},{"name":"CanDash","value":{"$content":true,"$type":"System.Boolean"},"$version":"A"},{"name":"DashDirection","value":{"x":0.0,"y":0.0,"z":0.0,"$type":"UnityEngine.Vector3"},"$version":"A"},{"name":"DashTime","value":{"$content":0.2,"$type":"System.Single"},"$version":"A"},{"name":"Rigidbody","value":{"$content":13,"$type":"UnityEngine.Object"},"$version":"A"},{"name":"JumpOffRails","value":{"$content":false,"$type":"System.Boolean"},"$version":"A"},{"name":"Pause
+        Menu","value":{"$content":14,"$type":"UnityEngine.Object"},"$version":"A"},{"name":"Resume
+        Button","value":{"$content":15,"$type":"UnityEngine.Object"},"$version":"A"}],"$version":"A"},"$version":"A"}}'
+      objectReference: {fileID: 0}
+    - target: {fileID: 7726340104531403915, guid: f136555109c96e544813e597eb344600, type: 3}
+      propertyPath: _data._objectReferences.Array.size
+      value: 16
+      objectReference: {fileID: 0}
+    - target: {fileID: 7726340104531403915, guid: f136555109c96e544813e597eb344600, type: 3}
+      propertyPath: _data._objectReferences.Array.data[15]
+      value: 
+      objectReference: {fileID: 1234783295}
+    - target: {fileID: 8549859958224435789, guid: f136555109c96e544813e597eb344600, type: 3}
+      propertyPath: m_RootOrder
+      value: 1
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: f136555109c96e544813e597eb344600, type: 3}
