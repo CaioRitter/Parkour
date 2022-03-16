@@ -1025,19 +1025,6 @@ Light:
   m_UseViewFrustumForShadowCasterCull: 1
   m_ShadowRadius: 1.65
   m_ShadowAngle: 0
---- !u!65 &2913167838993262230
-BoxCollider:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 5827499791307587802}
-  m_Material: {fileID: 0}
-  m_IsTrigger: 0
-  m_Enabled: 1
-  serializedVersion: 2
-  m_Size: {x: 0.019596623, y: 0.0190852, z: 0.0324794}
-  m_Center: {x: 0.000002370216, y: -0.0000000018626451, z: 0.016234959}
 --- !u!1 &5844553965312103745
 GameObject:
   m_ObjectHideFlags: 0
@@ -1224,22 +1211,6 @@ Light:
   m_UseViewFrustumForShadowCasterCull: 1
   m_ShadowRadius: 1.65
   m_ShadowAngle: 0
---- !u!208 &7638095094332064265
-NavMeshObstacle:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 8200087190177363388}
-  m_Enabled: 1
-  serializedVersion: 3
-  m_Shape: 1
-  m_Extents: {x: 0.015, y: 0.015, z: 0.02}
-  m_MoveThreshold: 0.1
-  m_Carve: 1
-  m_CarveOnlyStationary: 1
-  m_Center: {x: 0, y: 0, z: 0}
-  m_TimeToStationary: 0.5
 --- !u!1 &8485206893679714025
 GameObject:
   m_ObjectHideFlags: 0
@@ -1333,6 +1304,35 @@ Light:
   m_UseViewFrustumForShadowCasterCull: 1
   m_ShadowRadius: 1.65
   m_ShadowAngle: 0
+--- !u!208 &7638095094332064265
+NavMeshObstacle:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 8200087190177363388}
+  m_Enabled: 1
+  serializedVersion: 3
+  m_Shape: 1
+  m_Extents: {x: 0.01, y: 0.01, z: 0.0175}
+  m_MoveThreshold: 0.1
+  m_Carve: 1
+  m_CarveOnlyStationary: 1
+  m_Center: {x: 0.003, y: -0.004, z: 0}
+  m_TimeToStationary: 0.5
+--- !u!65 &2913167838993262230
+BoxCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5827499791307587802}
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_Enabled: 1
+  serializedVersion: 2
+  m_Size: {x: 0.019596623, y: 0.0190852, z: 0.0324794}
+  m_Center: {x: 0.000002370216, y: -0.0000000018626451, z: 0.016234959}
 --- !u!1001 &9011111364868471128
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -3022,7 +3022,7 @@ PrefabInstance:
       objectReference: {fileID: 2100000, guid: dcb7041ab0461b94f914375a75dcbffe, type: 2}
     - target: {fileID: -5921505478000457673, guid: 886e11465e1576044ba271b0a3a1d16f, type: 3}
       propertyPath: m_Layer
-      value: 12
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 919132149155446097, guid: 886e11465e1576044ba271b0a3a1d16f, type: 3}
       propertyPath: m_Name
