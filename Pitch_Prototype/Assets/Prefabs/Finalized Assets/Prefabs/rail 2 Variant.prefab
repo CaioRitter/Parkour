@@ -14,6 +14,22 @@ MeshCollider:
   m_Convex: 1
   m_CookingOptions: 30
   m_Mesh: {fileID: 8245426573784773463, guid: 805b7a7fffa25924db17c11edf1d55ca, type: 3}
+--- !u!208 &6273394480670886373
+NavMeshObstacle:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7339286219802767529}
+  m_Enabled: 1
+  serializedVersion: 3
+  m_Shape: 1
+  m_Extents: {x: 2.2080002, y: 2.196, z: 1.7110001}
+  m_MoveThreshold: 0.1
+  m_Carve: 1
+  m_CarveOnlyStationary: 1
+  m_Center: {x: -0.23, y: 0, z: 1.687}
+  m_TimeToStationary: 0.5
 --- !u!1001 &5923061011547584985
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -23,7 +39,7 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: 4028629799386810736, guid: fbca1f3de192f334490d74feb8122df3, type: 3}
       propertyPath: m_Name
-      value: rail 2
+      value: rail 2 Variant
       objectReference: {fileID: 0}
     - target: {fileID: 4369408466539860938, guid: fbca1f3de192f334490d74feb8122df3, type: 3}
       propertyPath: m_RootOrder

@@ -14,6 +14,22 @@ MeshCollider:
   m_Convex: 1
   m_CookingOptions: 30
   m_Mesh: {fileID: -4226548114220178627, guid: 670ac238658cdb84d8ea61c47bdcf438, type: 3}
+--- !u!208 &4324561588783188673
+NavMeshObstacle:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4151371829418518273}
+  m_Enabled: 1
+  serializedVersion: 3
+  m_Shape: 1
+  m_Extents: {x: 0.23500001, y: 0.134, z: 0.358}
+  m_MoveThreshold: 0.1
+  m_Carve: 1
+  m_CarveOnlyStationary: 1
+  m_Center: {x: 0, y: 0, z: 0}
+  m_TimeToStationary: 0.5
 --- !u!1001 &3845453402947508816
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -83,7 +99,7 @@ PrefabInstance:
       objectReference: {fileID: 2100000, guid: 2e9cf94ea9ce53045b3728e377149295, type: 2}
     - target: {fileID: 919132149155446097, guid: 670ac238658cdb84d8ea61c47bdcf438, type: 3}
       propertyPath: m_Name
-      value: BigPipeCurve
+      value: BigPipeCurve Variant
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 670ac238658cdb84d8ea61c47bdcf438, type: 3}
