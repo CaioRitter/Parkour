@@ -28,8 +28,8 @@ Transform:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 319605453}
-  m_LocalRotation: {x: -0, y: 0.0000009238719, z: -0, w: 1}
-  m_LocalPosition: {x: 0.009982317, y: 1.6700001, z: -11.91}
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: 0, y: 1.5, z: -9.57}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 7726340104531403913}
@@ -2324,7 +2324,7 @@ MonoBehaviour:
     _objectReferences:
     - {fileID: 7726340104347164834}
     - {fileID: 7726340105063448055}
-    - {fileID: 0}
+    - {fileID: 2005815297588588482}
     - {fileID: 7726340104531403909}
     - {fileID: 1689252418}
     - {fileID: 1406074447}
