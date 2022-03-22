@@ -97,6 +97,18 @@ PrefabInstance:
       propertyPath: m_Name
       value: ChainGate Variant
       objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 9c6cc6781bbddfa4aab521cfd1809f88, type: 3}
+      propertyPath: m_Layer
+      value: 12
+      objectReference: {fileID: 0}
+    - target: {fileID: 2243029109901186861, guid: 9c6cc6781bbddfa4aab521cfd1809f88, type: 3}
+      propertyPath: m_Layer
+      value: 12
+      objectReference: {fileID: 0}
+    - target: {fileID: 6528607611247200385, guid: 9c6cc6781bbddfa4aab521cfd1809f88, type: 3}
+      propertyPath: m_Layer
+      value: 12
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 9c6cc6781bbddfa4aab521cfd1809f88, type: 3}
 --- !u!1 &710634489462122734 stripped
