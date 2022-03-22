@@ -14,6 +14,22 @@ MeshCollider:
   m_Convex: 1
   m_CookingOptions: 30
   m_Mesh: {fileID: -2329098449242126572, guid: 09e610e83c8ea3649803a5dab4dc63b7, type: 3}
+--- !u!208 &5295141330256046812
+NavMeshObstacle:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 8945018912216958660}
+  m_Enabled: 1
+  serializedVersion: 3
+  m_Shape: 1
+  m_Extents: {x: 0.30400002, y: 1, z: 0.45900002}
+  m_MoveThreshold: 0.1
+  m_Carve: 1
+  m_CarveOnlyStationary: 1
+  m_Center: {x: -0.003, y: 0, z: 0.45900002}
+  m_TimeToStationary: 0.5
 --- !u!1001 &8134203099286535061
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -83,7 +99,7 @@ PrefabInstance:
       objectReference: {fileID: 2100000, guid: 7b0b70f28dd803b4fbff2b378f770d2f, type: 2}
     - target: {fileID: 919132149155446097, guid: 09e610e83c8ea3649803a5dab4dc63b7, type: 3}
       propertyPath: m_Name
-      value: desk
+      value: desk Variant
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 09e610e83c8ea3649803a5dab4dc63b7, type: 3}
