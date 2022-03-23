@@ -38,7 +38,7 @@ RenderSettings:
   m_ReflectionIntensity: 1
   m_CustomReflection: {fileID: 0}
   m_Sun: {fileID: 0}
-  m_IndirectSpecularColor: {r: 0.44657874, g: 0.49641258, b: 0.5748172, a: 1}
+  m_IndirectSpecularColor: {r: 0.44657826, g: 0.49641263, b: 0.57481676, a: 1}
   m_UseRadianceAmbientProbe: 0
 --- !u!157 &3
 LightmapSettings:
@@ -1288,7 +1288,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 1
+  m_IsActive: 0
 --- !u!224 &568967495
 RectTransform:
   m_ObjectHideFlags: 0
@@ -2369,13 +2369,15 @@ GameObject:
   - component: {fileID: 1847071903}
   - component: {fileID: 1847071905}
   - component: {fileID: 1847071904}
+  - component: {fileID: 1847071907}
+  - component: {fileID: 1847071906}
   m_Layer: 5
   m_Name: Level Select
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 0
+  m_IsActive: 1
 --- !u!224 &1847071903
 RectTransform:
   m_ObjectHideFlags: 0
@@ -2439,6 +2441,42 @@ CanvasRenderer:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1847071902}
   m_CullTransparentMesh: 1
+--- !u!114 &1847071906
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1847071902}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -57143145, guid: a040fb66244a7f54289914d98ea4ef7d, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  _data:
+    _json: '{"nest":{"source":"Macro","macro":0,"embed":null}}'
+    _objectReferences:
+    - {fileID: 11400000, guid: 53557608684b93540915c481ec17a8f0, type: 2}
+--- !u!114 &1847071907
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1847071902}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -1465209106, guid: c8d0ad23af520fe46aabe2b1fecf6462, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  _data:
+    _json: '{"declarations":{"collection":{"$content":[{"name":"level1","value":{"$content":0,"$type":"UnityEngine.Object"},"$version":"A"},{"name":"level2","value":{"$content":1,"$type":"UnityEngine.Object"},"$version":"A"},{"name":"level3","value":{"$content":2,"$type":"UnityEngine.Object"},"$version":"A"},{"name":"level4","value":{"$content":3,"$type":"UnityEngine.Object"},"$version":"A"},{"name":"level5","value":{"$content":4,"$type":"UnityEngine.Object"},"$version":"A"}],"$version":"A"},"$version":"A"}}'
+    _objectReferences:
+    - {fileID: 1975353326}
+    - {fileID: 1134239884}
+    - {fileID: 1520856120}
+    - {fileID: 451205297}
+    - {fileID: 468101548}
 --- !u!1 &1879034314
 GameObject:
   m_ObjectHideFlags: 0
@@ -2533,7 +2571,6 @@ GameObject:
   - component: {fileID: 1975353331}
   - component: {fileID: 1975353330}
   - component: {fileID: 1975353329}
-  - component: {fileID: 1975353328}
   m_Layer: 5
   m_Name: Level 1 Button
   m_TagString: Untagged
@@ -2561,22 +2598,6 @@ RectTransform:
   m_AnchoredPosition: {x: 0, y: 42.000004}
   m_SizeDelta: {x: 160, y: 30}
   m_Pivot: {x: 0.5, y: 0.5}
---- !u!114 &1975353328
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 1975353326}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: -57143145, guid: a040fb66244a7f54289914d98ea4ef7d, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  _data:
-    _json: '{"nest":{"source":"Macro","macro":0,"embed":null}}'
-    _objectReferences:
-    - {fileID: 11400000, guid: 2b175595a6f51cd478cfcbe985da6b46, type: 2}
 --- !u!114 &1975353329
 MonoBehaviour:
   m_ObjectHideFlags: 0
