@@ -18,9 +18,21 @@ EditorBuildSettings:
     path: Assets/Scenes/TestScene.unity
     guid: 046ba585a16dc2f44829e562b9c358d7
   - enabled: 1
+    path: Assets/Scenes/New Main Menu.unity
+    guid: a3b3dae72990a3f43b1d113c0d55091c
+  - enabled: 1
     path: Assets/Scenes/Level 1.unity
     guid: 409f30f857400b245bfbe1c9cfbd06f2
   - enabled: 1
-    path: Assets/Scenes/New Main Menu.unity
-    guid: a3b3dae72990a3f43b1d113c0d55091c
+    path: Assets/Daniel/Level 2.unity
+    guid: cfb7df925ee0df845a6b9e9ceca36331
+  - enabled: 1
+    path: Assets/Isel/Level 3.unity
+    guid: 24518ebd27bc6f444b2d9f824d92bf6f
+  - enabled: 1
+    path: Assets/Caio/Level 4.unity
+    guid: 808acdd8ba49a714292d50f65a2e3841
+  - enabled: 1
+    path: Assets/Junhao/Level 5.unity
+    guid: a3a2aded61f6e3846b4351f1ff43d833
   m_configObjects: {}
