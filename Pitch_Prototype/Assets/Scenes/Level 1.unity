@@ -5807,6 +5807,22 @@ PrefabInstance:
       propertyPath: m_Name
       value: RectangleBuilderFirst
       objectReference: {fileID: 0}
+    - target: {fileID: 8575906049963322580, guid: 0a834ad412862b54db4e0b3faa6e996c, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: c99692d056270af4aa7a19c67633b822, type: 2}
+    - target: {fileID: 8575906050344763471, guid: 0a834ad412862b54db4e0b3faa6e996c, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: c99692d056270af4aa7a19c67633b822, type: 2}
+    - target: {fileID: 8575906050436976080, guid: 0a834ad412862b54db4e0b3faa6e996c, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: c99692d056270af4aa7a19c67633b822, type: 2}
+    - target: {fileID: 8575906051672634531, guid: 0a834ad412862b54db4e0b3faa6e996c, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: c99692d056270af4aa7a19c67633b822, type: 2}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 0a834ad412862b54db4e0b3faa6e996c, type: 3}
 --- !u!1001 &1726023720
