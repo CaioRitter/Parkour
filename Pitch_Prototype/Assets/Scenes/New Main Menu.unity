@@ -38,11 +38,7 @@ RenderSettings:
   m_ReflectionIntensity: 1
   m_CustomReflection: {fileID: 0}
   m_Sun: {fileID: 0}
-<<<<<<< Updated upstream
   m_IndirectSpecularColor: {r: 0.44657874, g: 0.49641258, b: 0.5748172, a: 1}
-=======
-  m_IndirectSpecularColor: {r: 0.44657826, g: 0.49641263, b: 0.57481676, a: 1}
->>>>>>> Stashed changes
   m_UseRadianceAmbientProbe: 0
 --- !u!157 &3
 LightmapSettings:
@@ -1424,10 +1420,6 @@ GameObject:
   - component: {fileID: 637881384}
   - component: {fileID: 637881383}
   - component: {fileID: 637881382}
-<<<<<<< Updated upstream
-=======
-  - component: {fileID: 637881385}
->>>>>>> Stashed changes
   m_Layer: 0
   m_Name: Main Camera
   m_TagString: MainCamera
@@ -1500,41 +1492,6 @@ Transform:
   m_Father: {fileID: 0}
   m_RootOrder: 0
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
-<<<<<<< Updated upstream
-=======
---- !u!114 &637881385
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 637881381}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: a79441f348de89743a2939f4d699eac1, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  m_RenderShadows: 1
-  m_RequiresDepthTextureOption: 2
-  m_RequiresOpaqueTextureOption: 2
-  m_CameraType: 0
-  m_Cameras: []
-  m_RendererIndex: -1
-  m_VolumeLayerMask:
-    serializedVersion: 2
-    m_Bits: 1
-  m_VolumeTrigger: {fileID: 0}
-  m_RenderPostProcessing: 0
-  m_Antialiasing: 0
-  m_AntialiasingQuality: 2
-  m_StopNaN: 0
-  m_Dithering: 0
-  m_ClearDepth: 1
-  m_AllowXRRendering: 1
-  m_RequiresDepthTexture: 0
-  m_RequiresColorTexture: 0
-  m_Version: 2
->>>>>>> Stashed changes
 --- !u!1 &732835107
 GameObject:
   m_ObjectHideFlags: 0
@@ -2412,11 +2369,6 @@ GameObject:
   - component: {fileID: 1847071903}
   - component: {fileID: 1847071905}
   - component: {fileID: 1847071904}
-<<<<<<< Updated upstream
-=======
-  - component: {fileID: 1847071907}
-  - component: {fileID: 1847071906}
->>>>>>> Stashed changes
   m_Layer: 5
   m_Name: Level Select
   m_TagString: Untagged
@@ -2431,13 +2383,8 @@ RectTransform:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1847071902}
-<<<<<<< Updated upstream
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
   m_LocalPosition: {x: 0, y: 0, z: 0}
-=======
-  m_LocalRotation: {x: 0.0004882635, y: -0, z: -0, w: 0.9999999}
-  m_LocalPosition: {x: 0, y: 0, z: -0.000000014901161}
->>>>>>> Stashed changes
   m_LocalScale: {x: 4.2516236, y: 7.3658466, z: 0.78}
   m_Children:
   - {fileID: 1975353327}
@@ -2448,11 +2395,7 @@ RectTransform:
   - {fileID: 2031447160}
   m_Father: {fileID: 2073940759}
   m_RootOrder: 1
-<<<<<<< Updated upstream
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
-=======
-  m_LocalEulerAnglesHint: {x: 0.056, y: 0, z: 0}
->>>>>>> Stashed changes
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
   m_AnchoredPosition: {x: 0, y: 0}
@@ -2496,45 +2439,6 @@ CanvasRenderer:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1847071902}
   m_CullTransparentMesh: 1
-<<<<<<< Updated upstream
-=======
---- !u!114 &1847071906
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 1847071902}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: -57143145, guid: a040fb66244a7f54289914d98ea4ef7d, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  _data:
-    _json: '{"nest":{"source":"Macro","macro":0,"embed":null}}'
-    _objectReferences:
-    - {fileID: 11400000, guid: 53557608684b93540915c481ec17a8f0, type: 2}
---- !u!114 &1847071907
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 1847071902}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: -1465209106, guid: c8d0ad23af520fe46aabe2b1fecf6462, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  _data:
-    _json: '{"declarations":{"collection":{"$content":[{"name":"level1","value":{"$content":0,"$type":"UnityEngine.Object"},"$version":"A"},{"name":"level2","value":{"$content":1,"$type":"UnityEngine.Object"},"$version":"A"},{"name":"level3","value":{"$content":2,"$type":"UnityEngine.Object"},"$version":"A"},{"name":"level4","value":{"$content":3,"$type":"UnityEngine.Object"},"$version":"A"},{"name":"level5","value":{"$content":4,"$type":"UnityEngine.Object"},"$version":"A"}],"$version":"A"},"$version":"A"}}'
-    _objectReferences:
-    - {fileID: 1975353326}
-    - {fileID: 1134239884}
-    - {fileID: 1520856120}
-    - {fileID: 451205297}
-    - {fileID: 468101548}
->>>>>>> Stashed changes
 --- !u!1 &1879034314
 GameObject:
   m_ObjectHideFlags: 0
@@ -2629,10 +2533,7 @@ GameObject:
   - component: {fileID: 1975353331}
   - component: {fileID: 1975353330}
   - component: {fileID: 1975353329}
-<<<<<<< Updated upstream
   - component: {fileID: 1975353328}
-=======
->>>>>>> Stashed changes
   m_Layer: 5
   m_Name: Level 1 Button
   m_TagString: Untagged
@@ -2660,7 +2561,6 @@ RectTransform:
   m_AnchoredPosition: {x: 0, y: 42.000004}
   m_SizeDelta: {x: 160, y: 30}
   m_Pivot: {x: 0.5, y: 0.5}
-<<<<<<< Updated upstream
 --- !u!114 &1975353328
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -2677,8 +2577,6 @@ MonoBehaviour:
     _json: '{"nest":{"source":"Macro","macro":0,"embed":null}}'
     _objectReferences:
     - {fileID: 11400000, guid: 2b175595a6f51cd478cfcbe985da6b46, type: 2}
-=======
->>>>>>> Stashed changes
 --- !u!114 &1975353329
 MonoBehaviour:
   m_ObjectHideFlags: 0
