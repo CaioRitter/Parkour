@@ -7,37 +7,69 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 0}
     m_Modifications:
+    - target: {fileID: 3806150812815594481, guid: b096d6e3ae45c264cadadf64627d9605, type: 3}
+      propertyPath: m_LocalScale.x
+      value: 1.6130712
+      objectReference: {fileID: 0}
+    - target: {fileID: 3806150812815594481, guid: b096d6e3ae45c264cadadf64627d9605, type: 3}
+      propertyPath: m_LocalScale.y
+      value: 1.7383469
+      objectReference: {fileID: 0}
+    - target: {fileID: 3806150812815594481, guid: b096d6e3ae45c264cadadf64627d9605, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3806150812815594481, guid: b096d6e3ae45c264cadadf64627d9605, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 1.42
+      objectReference: {fileID: 0}
+    - target: {fileID: 3806150812815594481, guid: b096d6e3ae45c264cadadf64627d9605, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0.2
+      objectReference: {fileID: 0}
     - target: {fileID: 3806150812877652200, guid: b096d6e3ae45c264cadadf64627d9605, type: 3}
       propertyPath: m_RootOrder
       value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 3806150812877652200, guid: b096d6e3ae45c264cadadf64627d9605, type: 3}
+      propertyPath: m_LocalScale.x
+      value: 1.0090613
+      objectReference: {fileID: 0}
+    - target: {fileID: 3806150812877652200, guid: b096d6e3ae45c264cadadf64627d9605, type: 3}
+      propertyPath: m_LocalScale.y
+      value: 1.0090613
+      objectReference: {fileID: 0}
+    - target: {fileID: 3806150812877652200, guid: b096d6e3ae45c264cadadf64627d9605, type: 3}
+      propertyPath: m_LocalScale.z
+      value: 1.0090613
+      objectReference: {fileID: 0}
+    - target: {fileID: 3806150812877652200, guid: b096d6e3ae45c264cadadf64627d9605, type: 3}
       propertyPath: m_LocalPosition.x
-      value: -76.15
+      value: -6.7069283
       objectReference: {fileID: 0}
     - target: {fileID: 3806150812877652200, guid: b096d6e3ae45c264cadadf64627d9605, type: 3}
       propertyPath: m_LocalPosition.y
-      value: 91.972
+      value: -0.0052948
       objectReference: {fileID: 0}
     - target: {fileID: 3806150812877652200, guid: b096d6e3ae45c264cadadf64627d9605, type: 3}
       propertyPath: m_LocalPosition.z
-      value: 239.57
+      value: 24.49884
       objectReference: {fileID: 0}
     - target: {fileID: 3806150812877652200, guid: b096d6e3ae45c264cadadf64627d9605, type: 3}
       propertyPath: m_LocalRotation.w
-      value: 0.7071068
+      value: -0.0013547994
       objectReference: {fileID: 0}
     - target: {fileID: 3806150812877652200, guid: b096d6e3ae45c264cadadf64627d9605, type: 3}
       propertyPath: m_LocalRotation.x
-      value: 0
+      value: -0
       objectReference: {fileID: 0}
     - target: {fileID: 3806150812877652200, guid: b096d6e3ae45c264cadadf64627d9605, type: 3}
       propertyPath: m_LocalRotation.y
-      value: 0.7071068
+      value: 0.9999991
       objectReference: {fileID: 0}
     - target: {fileID: 3806150812877652200, guid: b096d6e3ae45c264cadadf64627d9605, type: 3}
       propertyPath: m_LocalRotation.z
-      value: 0
+      value: -0
       objectReference: {fileID: 0}
     - target: {fileID: 3806150812877652200, guid: b096d6e3ae45c264cadadf64627d9605, type: 3}
       propertyPath: m_LocalEulerAnglesHint.x
@@ -45,7 +77,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 3806150812877652200, guid: b096d6e3ae45c264cadadf64627d9605, type: 3}
       propertyPath: m_LocalEulerAnglesHint.y
-      value: 90
+      value: 180.155
       objectReference: {fileID: 0}
     - target: {fileID: 3806150812877652200, guid: b096d6e3ae45c264cadadf64627d9605, type: 3}
       propertyPath: m_LocalEulerAnglesHint.z
@@ -53,7 +85,15 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 3806150812877652201, guid: b096d6e3ae45c264cadadf64627d9605, type: 3}
       propertyPath: m_Name
-      value: Riot Police Variant
+      value: Riot Police Variant (4)
+      objectReference: {fileID: 0}
+    - target: {fileID: 3806150813221816830, guid: b096d6e3ae45c264cadadf64627d9605, type: 3}
+      propertyPath: m_LocalScale.y
+      value: 0.79935026
+      objectReference: {fileID: 0}
+    - target: {fileID: 3806150813221816830, guid: b096d6e3ae45c264cadadf64627d9605, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: -0.027
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: b096d6e3ae45c264cadadf64627d9605, type: 3}
