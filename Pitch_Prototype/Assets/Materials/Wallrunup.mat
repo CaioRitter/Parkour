@@ -126,7 +126,7 @@ Material:
     - _Color: {r: 1, g: 1, b: 1, a: 1}
     - _EmissionColor: {r: 0.9716981, g: 0.8462674, b: 0.03116761, a: 1}
     - _FresnelColor: {r: 28.51895, g: 27.847916, b: 0, a: 0}
-    - _HologramTiling: {r: 6, g: 6, b: 0, a: 0}
+    - _HologramTiling: {r: 3, g: 3, b: 0, a: 0}
     - _MainColor: {r: 1.4980392, g: 1.4980392, b: 0, a: 0}
     - _SpecColor: {r: 0.2, g: 0.2, b: 0.2, a: 1}
   m_BuildTextureStacks: []
