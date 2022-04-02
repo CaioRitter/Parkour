@@ -7,33 +7,9 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 0}
     m_Modifications:
-    - target: {fileID: 750980725053548758, guid: 02edcc4cdbf00ad4b94301cc39054430, type: 3}
-      propertyPath: m_LocalEulerAnglesHint.x
-      value: -68.17851
-      objectReference: {fileID: 0}
-    - target: {fileID: 750980725053548758, guid: 02edcc4cdbf00ad4b94301cc39054430, type: 3}
-      propertyPath: m_LocalEulerAnglesHint.y
-      value: 135.58421
-      objectReference: {fileID: 0}
-    - target: {fileID: 750980725053548758, guid: 02edcc4cdbf00ad4b94301cc39054430, type: 3}
-      propertyPath: m_LocalEulerAnglesHint.z
-      value: -134.61488
-      objectReference: {fileID: 0}
-    - target: {fileID: 1491097603322657834, guid: 02edcc4cdbf00ad4b94301cc39054430, type: 3}
-      propertyPath: m_LocalEulerAnglesHint.x
-      value: 9.833396
-      objectReference: {fileID: 0}
-    - target: {fileID: 1491097603322657834, guid: 02edcc4cdbf00ad4b94301cc39054430, type: 3}
-      propertyPath: m_LocalEulerAnglesHint.y
-      value: 176.6401
-      objectReference: {fileID: 0}
-    - target: {fileID: 1491097603322657834, guid: 02edcc4cdbf00ad4b94301cc39054430, type: 3}
-      propertyPath: m_LocalEulerAnglesHint.z
-      value: 104.69437
-      objectReference: {fileID: 0}
-    - target: {fileID: 2488673593116840279, guid: 02edcc4cdbf00ad4b94301cc39054430, type: 3}
-      propertyPath: m_Enabled
-      value: 0
+    - target: {fileID: 1001696328682688103, guid: 02edcc4cdbf00ad4b94301cc39054430, type: 3}
+      propertyPath: m_IsActive
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 3207844714980854207, guid: 02edcc4cdbf00ad4b94301cc39054430, type: 3}
       propertyPath: m_RootOrder
@@ -79,67 +55,13 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
-    - target: {fileID: 4597522954264482421, guid: 02edcc4cdbf00ad4b94301cc39054430, type: 3}
-      propertyPath: m_LocalEulerAnglesHint.x
-      value: 10.536678
-      objectReference: {fileID: 0}
-    - target: {fileID: 4597522954264482421, guid: 02edcc4cdbf00ad4b94301cc39054430, type: 3}
-      propertyPath: m_LocalEulerAnglesHint.y
-      value: 2.9794571
-      objectReference: {fileID: 0}
-    - target: {fileID: 4597522954264482421, guid: 02edcc4cdbf00ad4b94301cc39054430, type: 3}
-      propertyPath: m_LocalEulerAnglesHint.z
-      value: 70.50952
-      objectReference: {fileID: 0}
     - target: {fileID: 5071220684179171842, guid: 02edcc4cdbf00ad4b94301cc39054430, type: 3}
       propertyPath: m_IsActive
       value: 0
       objectReference: {fileID: 0}
-    - target: {fileID: 5195256977595839136, guid: 02edcc4cdbf00ad4b94301cc39054430, type: 3}
-      propertyPath: m_LocalEulerAnglesHint.x
-      value: 10.536715
-      objectReference: {fileID: 0}
-    - target: {fileID: 5195256977595839136, guid: 02edcc4cdbf00ad4b94301cc39054430, type: 3}
-      propertyPath: m_LocalEulerAnglesHint.y
-      value: -177.02052
-      objectReference: {fileID: 0}
-    - target: {fileID: 5195256977595839136, guid: 02edcc4cdbf00ad4b94301cc39054430, type: 3}
-      propertyPath: m_LocalEulerAnglesHint.z
-      value: -69.49051
-      objectReference: {fileID: 0}
-    - target: {fileID: 7999244786545004124, guid: 02edcc4cdbf00ad4b94301cc39054430, type: 3}
-      propertyPath: _data._objectReferences.Array.data[0]
-      value: 
-      objectReference: {fileID: 8531344745833633503}
-    - target: {fileID: 7999244786545004124, guid: 02edcc4cdbf00ad4b94301cc39054430, type: 3}
-      propertyPath: _data._objectReferences.Array.data[1]
-      value: 
-      objectReference: {fileID: 758603564768541458}
     - target: {fileID: 8587346227304398707, guid: 02edcc4cdbf00ad4b94301cc39054430, type: 3}
       propertyPath: m_Name
-      value: Floating Drone Variant (4)
-      objectReference: {fileID: 0}
-    - target: {fileID: 9113602081545982070, guid: 02edcc4cdbf00ad4b94301cc39054430, type: 3}
-      propertyPath: m_LocalEulerAnglesHint.x
-      value: 9.833373
-      objectReference: {fileID: 0}
-    - target: {fileID: 9113602081545982070, guid: 02edcc4cdbf00ad4b94301cc39054430, type: 3}
-      propertyPath: m_LocalEulerAnglesHint.y
-      value: -3.3599164
-      objectReference: {fileID: 0}
-    - target: {fileID: 9113602081545982070, guid: 02edcc4cdbf00ad4b94301cc39054430, type: 3}
-      propertyPath: m_LocalEulerAnglesHint.z
-      value: 69.42555
+      value: Floating Drone Variant
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 02edcc4cdbf00ad4b94301cc39054430, type: 3}
---- !u!1 &758603564768541458 stripped
-GameObject:
-  m_CorrespondingSourceObject: {fileID: 83268562743669356, guid: 02edcc4cdbf00ad4b94301cc39054430, type: 3}
-  m_PrefabInstance: {fileID: 837895743599839614}
-  m_PrefabAsset: {fileID: 0}
---- !u!1 &8531344745833633503 stripped
-GameObject:
-  m_CorrespondingSourceObject: {fileID: 9062827281052573601, guid: 02edcc4cdbf00ad4b94301cc39054430, type: 3}
-  m_PrefabInstance: {fileID: 837895743599839614}
-  m_PrefabAsset: {fileID: 0}
