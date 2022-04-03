@@ -1,0 +1,3104 @@
+fileFormatVersion: 2
+guid: f76945d23a8a7944aa7ed9cabe2e5c80
+ModelImporter:
+  serializedVersion: 20200
+  internalIDToNameTable:
+  - first:
+      74: 6780684953258903163
+    second: Base|Antena|Take 001|BaseLayer
+  - first:
+      74: -221148555231336159
+    second: Base|BackGunL|Take 001|BaseLayer
+  - first:
+      74: 128733734811784061
+    second: Base|BackGunMovementL|Take 001|BaseLayer
+  - first:
+      74: -3278931702424442620
+    second: Base|BackGunMovementR|Take 001|BaseLayer
+  - first:
+      74: -4859544598371985043
+    second: Base|BackGunR|Take 001|BaseLayer
+  - first:
+      74: -1511233268087015362
+    second: Base|Base|Take 001|BaseLayer
+  - first:
+      74: 2822205862291644257
+    second: Base|BodyRotation|Take 001|BaseLayer
+  - first:
+      74: 973409320775351349
+    second: Base|Body|Take 001|BaseLayer
+  - first:
+      74: -995773328198357976
+    second: Base|ChamferBox001|Take 001|BaseLayer
+  - first:
+      74: -5764253303256625255
+    second: Base|Cylinder001|Take 001|BaseLayer
+  - first:
+      74: -8031498368959660096
+    second: Base|FrontGunL|Take 001|BaseLayer
+  - first:
+      74: 335763295743768069
+    second: Base|FrontGunMovementL|Take 001|BaseLayer
+  - first:
+      74: -3515964869133561581
+    second: Base|FrontGunMovementR|Take 001|BaseLayer
+  - first:
+      74: 2029350501307848519
+    second: Base|FrontGunR|Take 001|BaseLayer
+  - first:
+      74: -8715727679321610403
+    second: Base|FrontThings001|Take 001|BaseLayer
+  - first:
+      74: 3758480960290022228
+    second: Base|FrontThings|Take 001|BaseLayer
+  - first:
+      74: -8089048209392315302
+    second: Base|Graper|Take 001|BaseLayer
+  - first:
+      74: -6193489604252763172
+    second: Base|GunL|Take 001|BaseLayer
+  - first:
+      74: -6017367139277270614
+    second: Base|GunProtectionL|Take 001|BaseLayer
+  - first:
+      74: 903370670510067674
+    second: Base|GunProtectionR|Take 001|BaseLayer
+  - first:
+      74: 766380070297443803
+    second: Base|GunRotation|Take 001|BaseLayer
+  - first:
+      74: -6214553062270586353
+    second: Base|GunR|Take 001|BaseLayer
+  - first:
+      74: 6414282281817500287
+    second: Base|GunSupport|Take 001|BaseLayer
+  - first:
+      74: 2805037528782059157
+    second: Base|Loft002|Take 001|BaseLayer
+  - first:
+      74: -1870375890035890519
+    second: Base|MiddleGunMovementL|Take 001|BaseLayer
+  - first:
+      74: -2291672921491398741
+    second: Base|MiddleGunMovementR|Take 001|BaseLayer
+  - first:
+      74: 7680219751758928128
+    second: Base|PhotometricLight001|Take 001|BaseLayer
+  - first:
+      74: -2953814327616631791
+    second: Base|PhotometricLight002|Take 001|BaseLayer
+  - first:
+      74: -3528801206067531602
+    second: Base|PhotometricLight003|Take 001|BaseLayer
+  - first:
+      74: -2988124786847316888
+    second: Base|Plane001|Take 001|BaseLayer
+  - first:
+      74: 6105426764141992057
+    second: Base|Rectangle001|Take 001|BaseLayer
+  - first:
+      74: 3251600904261613173
+    second: Base|ScopeRotation|Take 001|BaseLayer
+  - first:
+      74: 1900405502651828464
+    second: Base|Scope|Take 001|BaseLayer
+  - first:
+      74: -405554827018813328
+    second: Base|ShieldRotation|Take 001|BaseLayer
+  - first:
+      74: 1664950617891962544
+    second: Base|ShieldSupport|Take 001|BaseLayer
+  - first:
+      74: -4102321762962343409
+    second: Base|ShieldSupRotation|Take 001|BaseLayer
+  - first:
+      74: 9120646087585412521
+    second: Base|Shield|Take 001|BaseLayer
+  - first:
+      74: 8031887067671763894
+    second: ChamferBox001|Antena|Take 001|BaseLayer
+  - first:
+      74: 7086860947710658990
+    second: ChamferBox001|BackGunL|Take 001|BaseLayer
+  - first:
+      74: 5742449609410832666
+    second: ChamferBox001|BackGunMovementL|Take 001|BaseLayer
+  - first:
+      74: 6605810552231286532
+    second: ChamferBox001|BackGunMovementR|Take 001|BaseLayer
+  - first:
+      74: 3600411955732042981
+    second: ChamferBox001|BackGunR|Take 001|BaseLayer
+  - first:
+      74: 8746818895386089489
+    second: ChamferBox001|Base|Take 001|BaseLayer
+  - first:
+      74: -3266014781543526103
+    second: ChamferBox001|BodyRotation|Take 001|BaseLayer
+  - first:
+      74: 6785845239850724425
+    second: ChamferBox001|Body|Take 001|BaseLayer
+  - first:
+      74: -7587576362752859547
+    second: ChamferBox001|ChamferBox001|Take 001|BaseLayer
+  - first:
+      74: 3096307019960710055
+    second: ChamferBox001|Cylinder001|Take 001|BaseLayer
+  - first:
+      74: -2701933911763509463
+    second: ChamferBox001|FrontGunL|Take 001|BaseLayer
+  - first:
+      74: 5531247209840000938
+    second: ChamferBox001|FrontGunMovementL|Take 001|BaseLayer
+  - first:
+      74: -8017490811273156659
+    second: ChamferBox001|FrontGunMovementR|Take 001|BaseLayer
+  - first:
+      74: -8560274015122035916
+    second: ChamferBox001|FrontGunR|Take 001|BaseLayer
+  - first:
+      74: 2879605841263978831
+    second: ChamferBox001|FrontThings001|Take 001|BaseLayer
+  - first:
+      74: 127072951255676043
+    second: ChamferBox001|FrontThings|Take 001|BaseLayer
+  - first:
+      74: 4581805238869900799
+    second: ChamferBox001|Graper|Take 001|BaseLayer
+  - first:
+      74: 1852724252670647486
+    second: ChamferBox001|GunL|Take 001|BaseLayer
+  - first:
+      74: -3286731195047441996
+    second: ChamferBox001|GunProtectionL|Take 001|BaseLayer
+  - first:
+      74: 8908035120736590831
+    second: ChamferBox001|GunProtectionR|Take 001|BaseLayer
+  - first:
+      74: -2991806429983635030
+    second: ChamferBox001|GunRotation|Take 001|BaseLayer
+  - first:
+      74: 1619670118829137791
+    second: ChamferBox001|GunR|Take 001|BaseLayer
+  - first:
+      74: 8900791351658508782
+    second: ChamferBox001|GunSupport|Take 001|BaseLayer
+  - first:
+      74: 2733254833831049119
+    second: ChamferBox001|Loft002|Take 001|BaseLayer
+  - first:
+      74: -1032832630507282519
+    second: ChamferBox001|MiddleGunMovementL|Take 001|BaseLayer
+  - first:
+      74: -65042591419807042
+    second: ChamferBox001|MiddleGunMovementR|Take 001|BaseLayer
+  - first:
+      74: 823957022384255497
+    second: ChamferBox001|PhotometricLight001|Take 001|BaseLayer
+  - first:
+      74: 4341920332572575813
+    second: ChamferBox001|PhotometricLight002|Take 001|BaseLayer
+  - first:
+      74: 6805526634335596218
+    second: ChamferBox001|PhotometricLight003|Take 001|BaseLayer
+  - first:
+      74: -6752169862792465516
+    second: ChamferBox001|Plane001|Take 001|BaseLayer
+  - first:
+      74: -7118017664322082446
+    second: ChamferBox001|Rectangle001|Take 001|BaseLayer
+  - first:
+      74: 5805957972289232139
+    second: ChamferBox001|ScopeRotation|Take 001|BaseLayer
+  - first:
+      74: 6057243759730623304
+    second: ChamferBox001|Scope|Take 001|BaseLayer
+  - first:
+      74: 4363761437406174473
+    second: ChamferBox001|ShieldRotation|Take 001|BaseLayer
+  - first:
+      74: -5273418939841460383
+    second: ChamferBox001|ShieldSupport|Take 001|BaseLayer
+  - first:
+      74: -5849483704863076457
+    second: ChamferBox001|ShieldSupRotation|Take 001|BaseLayer
+  - first:
+      74: 7113869435079201359
+    second: ChamferBox001|Shield|Take 001|BaseLayer
+  - first:
+      74: 6703641622173139087
+    second: Antena|Antena|Take 001|BaseLayer
+  - first:
+      74: -8567137409999967083
+    second: Antena|BackGunL|Take 001|BaseLayer
+  - first:
+      74: -3551223555197856124
+    second: Antena|BackGunMovementL|Take 001|BaseLayer
+  - first:
+      74: 3628723893296031602
+    second: Antena|BackGunMovementR|Take 001|BaseLayer
+  - first:
+      74: 6229851867172696822
+    second: Antena|BackGunR|Take 001|BaseLayer
+  - first:
+      74: 7316481479413967115
+    second: Antena|Base|Take 001|BaseLayer
+  - first:
+      74: -4689180350040220430
+    second: Antena|BodyRotation|Take 001|BaseLayer
+  - first:
+      74: 309785440083808850
+    second: Antena|Body|Take 001|BaseLayer
+  - first:
+      74: -7282421091661572931
+    second: Antena|ChamferBox001|Take 001|BaseLayer
+  - first:
+      74: -3453411923599807930
+    second: Antena|Cylinder001|Take 001|BaseLayer
+  - first:
+      74: 9023277463287570439
+    second: Antena|FrontGunL|Take 001|BaseLayer
+  - first:
+      74: 6124298371178168032
+    second: Antena|FrontGunMovementL|Take 001|BaseLayer
+  - first:
+      74: 8194329911438515478
+    second: Antena|FrontGunMovementR|Take 001|BaseLayer
+  - first:
+      74: -734706037312921405
+    second: Antena|FrontGunR|Take 001|BaseLayer
+  - first:
+      74: -6497385052227344437
+    second: Antena|FrontThings001|Take 001|BaseLayer
+  - first:
+      74: -7645851910548274303
+    second: Antena|FrontThings|Take 001|BaseLayer
+  - first:
+      74: -8776631925605526535
+    second: Antena|Graper|Take 001|BaseLayer
+  - first:
+      74: 7210488620728894866
+    second: Antena|GunL|Take 001|BaseLayer
+  - first:
+      74: -642038749681339194
+    second: Antena|GunProtectionL|Take 001|BaseLayer
+  - first:
+      74: -3198574841914672473
+    second: Antena|GunProtectionR|Take 001|BaseLayer
+  - first:
+      74: 9084532223432533250
+    second: Antena|GunRotation|Take 001|BaseLayer
+  - first:
+      74: -3387279375735204494
+    second: Antena|GunR|Take 001|BaseLayer
+  - first:
+      74: 4932778010349752827
+    second: Antena|GunSupport|Take 001|BaseLayer
+  - first:
+      74: -5558400783221751277
+    second: Antena|Loft002|Take 001|BaseLayer
+  - first:
+      74: 1822802683548179499
+    second: Antena|MiddleGunMovementL|Take 001|BaseLayer
+  - first:
+      74: -8814208791411764157
+    second: Antena|MiddleGunMovementR|Take 001|BaseLayer
+  - first:
+      74: -2691891468624915073
+    second: Antena|PhotometricLight001|Take 001|BaseLayer
+  - first:
+      74: -9126672868653122889
+    second: Antena|PhotometricLight002|Take 001|BaseLayer
+  - first:
+      74: 8924702155206978999
+    second: Antena|PhotometricLight003|Take 001|BaseLayer
+  - first:
+      74: -7941018474999349475
+    second: Antena|Plane001|Take 001|BaseLayer
+  - first:
+      74: 4951145614877178240
+    second: Antena|Rectangle001|Take 001|BaseLayer
+  - first:
+      74: 3670371088447275996
+    second: Antena|ScopeRotation|Take 001|BaseLayer
+  - first:
+      74: 376107360996104857
+    second: Antena|Scope|Take 001|BaseLayer
+  - first:
+      74: -6413266851481427700
+    second: Antena|ShieldRotation|Take 001|BaseLayer
+  - first:
+      74: -127445334815212903
+    second: Antena|ShieldSupport|Take 001|BaseLayer
+  - first:
+      74: -7550161590022473112
+    second: Antena|ShieldSupRotation|Take 001|BaseLayer
+  - first:
+      74: -2090362984046446311
+    second: Antena|Shield|Take 001|BaseLayer
+  - first:
+      74: 5256373337549615634
+    second: FrontThings|Antena|Take 001|BaseLayer
+  - first:
+      74: 4376395772719705668
+    second: FrontThings|BackGunL|Take 001|BaseLayer
+  - first:
+      74: 9131214339257010341
+    second: FrontThings|BackGunMovementL|Take 001|BaseLayer
+  - first:
+      74: 1940031433502665058
+    second: FrontThings|BackGunMovementR|Take 001|BaseLayer
+  - first:
+      74: 7305034532420822480
+    second: FrontThings|BackGunR|Take 001|BaseLayer
+  - first:
+      74: -4319084489399425140
+    second: FrontThings|Base|Take 001|BaseLayer
+  - first:
+      74: -6978236024788843037
+    second: FrontThings|BodyRotation|Take 001|BaseLayer
+  - first:
+      74: 6740234752447567468
+    second: FrontThings|Body|Take 001|BaseLayer
+  - first:
+      74: -8989155412482544125
+    second: FrontThings|ChamferBox001|Take 001|BaseLayer
+  - first:
+      74: -949401112245286504
+    second: FrontThings|Cylinder001|Take 001|BaseLayer
+  - first:
+      74: -8430691210608458659
+    second: FrontThings|FrontGunL|Take 001|BaseLayer
+  - first:
+      74: -9174017717939173106
+    second: FrontThings|FrontGunMovementL|Take 001|BaseLayer
+  - first:
+      74: 5383013271732251291
+    second: FrontThings|FrontGunMovementR|Take 001|BaseLayer
+  - first:
+      74: -3254331968152220407
+    second: FrontThings|FrontGunR|Take 001|BaseLayer
+  - first:
+      74: -1983062947198392071
+    second: FrontThings|FrontThings001|Take 001|BaseLayer
+  - first:
+      74: 1105891659843613979
+    second: FrontThings|FrontThings|Take 001|BaseLayer
+  - first:
+      74: -3735971609898256715
+    second: FrontThings|Graper|Take 001|BaseLayer
+  - first:
+      74: -1308184240723075485
+    second: FrontThings|GunL|Take 001|BaseLayer
+  - first:
+      74: 2265318316818878272
+    second: FrontThings|GunProtectionL|Take 001|BaseLayer
+  - first:
+      74: -4407706954418814980
+    second: FrontThings|GunProtectionR|Take 001|BaseLayer
+  - first:
+      74: 8698473586118490114
+    second: FrontThings|GunRotation|Take 001|BaseLayer
+  - first:
+      74: 1810312857806069490
+    second: FrontThings|GunR|Take 001|BaseLayer
+  - first:
+      74: 4502292123740228886
+    second: FrontThings|GunSupport|Take 001|BaseLayer
+  - first:
+      74: 7350161166721043670
+    second: FrontThings|Loft002|Take 001|BaseLayer
+  - first:
+      74: -1237613647542994051
+    second: FrontThings|MiddleGunMovementL|Take 001|BaseLayer
+  - first:
+      74: -5840182907859296498
+    second: FrontThings|MiddleGunMovementR|Take 001|BaseLayer
+  - first:
+      74: 4930707589980461510
+    second: FrontThings|PhotometricLight001|Take 001|BaseLayer
+  - first:
+      74: -6351127241801128960
+    second: FrontThings|PhotometricLight002|Take 001|BaseLayer
+  - first:
+      74: 290059600574261004
+    second: FrontThings|PhotometricLight003|Take 001|BaseLayer
+  - first:
+      74: 424934359559775351
+    second: FrontThings|Plane001|Take 001|BaseLayer
+  - first:
+      74: -5578697734230421862
+    second: FrontThings|Rectangle001|Take 001|BaseLayer
+  - first:
+      74: 2866045757910119148
+    second: FrontThings|ScopeRotation|Take 001|BaseLayer
+  - first:
+      74: 8976813221086514851
+    second: FrontThings|Scope|Take 001|BaseLayer
+  - first:
+      74: 4377625745499309184
+    second: FrontThings|ShieldRotation|Take 001|BaseLayer
+  - first:
+      74: -3250554473427296841
+    second: FrontThings|ShieldSupport|Take 001|BaseLayer
+  - first:
+      74: -115397663891556867
+    second: FrontThings|ShieldSupRotation|Take 001|BaseLayer
+  - first:
+      74: 3522903878599359476
+    second: FrontThings|Shield|Take 001|BaseLayer
+  - first:
+      74: 7619799019321249523
+    second: Loft002|Antena|Take 001|BaseLayer
+  - first:
+      74: -49814956157159349
+    second: Loft002|BackGunL|Take 001|BaseLayer
+  - first:
+      74: -4371279209034579270
+    second: Loft002|BackGunMovementL|Take 001|BaseLayer
+  - first:
+      74: -592187210321974436
+    second: Loft002|BackGunMovementR|Take 001|BaseLayer
+  - first:
+      74: -8874495440906446481
+    second: Loft002|BackGunR|Take 001|BaseLayer
+  - first:
+      74: 1636267306434695650
+    second: Loft002|Base|Take 001|BaseLayer
+  - first:
+      74: 6080719857871376810
+    second: Loft002|BodyRotation|Take 001|BaseLayer
+  - first:
+      74: 29265084305206820
+    second: Loft002|Body|Take 001|BaseLayer
+  - first:
+      74: -8914297239250275411
+    second: Loft002|ChamferBox001|Take 001|BaseLayer
+  - first:
+      74: -2340602164456732454
+    second: Loft002|Cylinder001|Take 001|BaseLayer
+  - first:
+      74: -1455598253637102133
+    second: Loft002|FrontGunL|Take 001|BaseLayer
+  - first:
+      74: -7998740133460191558
+    second: Loft002|FrontGunMovementL|Take 001|BaseLayer
+  - first:
+      74: -7352243391379697579
+    second: Loft002|FrontGunMovementR|Take 001|BaseLayer
+  - first:
+      74: -6014768561401997529
+    second: Loft002|FrontGunR|Take 001|BaseLayer
+  - first:
+      74: -3671594420550077596
+    second: Loft002|FrontThings001|Take 001|BaseLayer
+  - first:
+      74: 807503528005243729
+    second: Loft002|FrontThings|Take 001|BaseLayer
+  - first:
+      74: 2868206840628355425
+    second: Loft002|Graper|Take 001|BaseLayer
+  - first:
+      74: 6749657050198101084
+    second: Loft002|GunL|Take 001|BaseLayer
+  - first:
+      74: 1416130416944171094
+    second: Loft002|GunProtectionL|Take 001|BaseLayer
+  - first:
+      74: 2484028911873123774
+    second: Loft002|GunProtectionR|Take 001|BaseLayer
+  - first:
+      74: -5271536393732367756
+    second: Loft002|GunRotation|Take 001|BaseLayer
+  - first:
+      74: -1892220370396742095
+    second: Loft002|GunR|Take 001|BaseLayer
+  - first:
+      74: -4114207675851318851
+    second: Loft002|GunSupport|Take 001|BaseLayer
+  - first:
+      74: 4242924313077163681
+    second: Loft002|Loft002|Take 001|BaseLayer
+  - first:
+      74: -5839652683315474448
+    second: Loft002|MiddleGunMovementL|Take 001|BaseLayer
+  - first:
+      74: -4643909396352993499
+    second: Loft002|MiddleGunMovementR|Take 001|BaseLayer
+  - first:
+      74: 4793379099032690192
+    second: Loft002|PhotometricLight001|Take 001|BaseLayer
+  - first:
+      74: -1604166576117791732
+    second: Loft002|PhotometricLight002|Take 001|BaseLayer
+  - first:
+      74: -1817944036795915056
+    second: Loft002|PhotometricLight003|Take 001|BaseLayer
+  - first:
+      74: 2717679471202738081
+    second: Loft002|Plane001|Take 001|BaseLayer
+  - first:
+      74: -7283369329272730175
+    second: Loft002|Rectangle001|Take 001|BaseLayer
+  - first:
+      74: -4763118533430581183
+    second: Loft002|ScopeRotation|Take 001|BaseLayer
+  - first:
+      74: -8606072592284676696
+    second: Loft002|Scope|Take 001|BaseLayer
+  - first:
+      74: 3584713716269359125
+    second: Loft002|ShieldRotation|Take 001|BaseLayer
+  - first:
+      74: -2907256398395445347
+    second: Loft002|ShieldSupport|Take 001|BaseLayer
+  - first:
+      74: -6840876975642927716
+    second: Loft002|ShieldSupRotation|Take 001|BaseLayer
+  - first:
+      74: 506446177925044354
+    second: Loft002|Shield|Take 001|BaseLayer
+  - first:
+      74: 7408635281538873378
+    second: Graper|Antena|Take 001|BaseLayer
+  - first:
+      74: -9140317749392984171
+    second: Graper|BackGunL|Take 001|BaseLayer
+  - first:
+      74: 3334733219387738501
+    second: Graper|BackGunMovementL|Take 001|BaseLayer
+  - first:
+      74: 2026324847463675423
+    second: Graper|BackGunMovementR|Take 001|BaseLayer
+  - first:
+      74: 7159068176943852310
+    second: Graper|BackGunR|Take 001|BaseLayer
+  - first:
+      74: 7277545319503593820
+    second: Graper|Base|Take 001|BaseLayer
+  - first:
+      74: -1188857489246638680
+    second: Graper|BodyRotation|Take 001|BaseLayer
+  - first:
+      74: -617324563623518276
+    second: Graper|Body|Take 001|BaseLayer
+  - first:
+      74: -2874856862248376747
+    second: Graper|ChamferBox001|Take 001|BaseLayer
+  - first:
+      74: -2787561776922893288
+    second: Graper|Cylinder001|Take 001|BaseLayer
+  - first:
+      74: 4247075116429320885
+    second: Graper|FrontGunL|Take 001|BaseLayer
+  - first:
+      74: -2919246193985446648
+    second: Graper|FrontGunMovementL|Take 001|BaseLayer
+  - first:
+      74: -1628738252329736301
+    second: Graper|FrontGunMovementR|Take 001|BaseLayer
+  - first:
+      74: -3883434956041925508
+    second: Graper|FrontGunR|Take 001|BaseLayer
+  - first:
+      74: -3706805945244538651
+    second: Graper|FrontThings001|Take 001|BaseLayer
+  - first:
+      74: -3393394127470823338
+    second: Graper|FrontThings|Take 001|BaseLayer
+  - first:
+      74: -3922000999971718541
+    second: Graper|Graper|Take 001|BaseLayer
+  - first:
+      74: -1874203145555715273
+    second: Graper|GunL|Take 001|BaseLayer
+  - first:
+      74: 8903983591486517225
+    second: Graper|GunProtectionL|Take 001|BaseLayer
+  - first:
+      74: 1401929951750340200
+    second: Graper|GunProtectionR|Take 001|BaseLayer
+  - first:
+      74: 2065248493390749264
+    second: Graper|GunRotation|Take 001|BaseLayer
+  - first:
+      74: 6544860236047838023
+    second: Graper|GunR|Take 001|BaseLayer
+  - first:
+      74: -8806856488114201071
+    second: Graper|GunSupport|Take 001|BaseLayer
+  - first:
+      74: 876861452891545686
+    second: Graper|Loft002|Take 001|BaseLayer
+  - first:
+      74: -3151802521555916095
+    second: Graper|MiddleGunMovementL|Take 001|BaseLayer
+  - first:
+      74: -2363395182044429934
+    second: Graper|MiddleGunMovementR|Take 001|BaseLayer
+  - first:
+      74: -4507532617244102684
+    second: Graper|PhotometricLight001|Take 001|BaseLayer
+  - first:
+      74: 7129555270339306354
+    second: Graper|PhotometricLight002|Take 001|BaseLayer
+  - first:
+      74: -8692382508827883779
+    second: Graper|PhotometricLight003|Take 001|BaseLayer
+  - first:
+      74: -1351315420688895969
+    second: Graper|Plane001|Take 001|BaseLayer
+  - first:
+      74: -3279015615402246347
+    second: Graper|Rectangle001|Take 001|BaseLayer
+  - first:
+      74: 231823427874806424
+    second: Graper|ScopeRotation|Take 001|BaseLayer
+  - first:
+      74: 2491064135848366627
+    second: Graper|Scope|Take 001|BaseLayer
+  - first:
+      74: -8380472700064310013
+    second: Graper|ShieldRotation|Take 001|BaseLayer
+  - first:
+      74: 439698258112311023
+    second: Graper|ShieldSupport|Take 001|BaseLayer
+  - first:
+      74: -5802827620677975406
+    second: Graper|ShieldSupRotation|Take 001|BaseLayer
+  - first:
+      74: -7998537679254416338
+    second: Graper|Shield|Take 001|BaseLayer
+  - first:
+      74: 4641132274679765001
+    second: FrontThings001|Antena|Take 001|BaseLayer
+  - first:
+      74: 2677710718069999338
+    second: FrontThings001|BackGunL|Take 001|BaseLayer
+  - first:
+      74: 7898719686088569737
+    second: FrontThings001|BackGunMovementL|Take 001|BaseLayer
+  - first:
+      74: 845750835363281385
+    second: FrontThings001|BackGunMovementR|Take 001|BaseLayer
+  - first:
+      74: 3721906978133246996
+    second: FrontThings001|BackGunR|Take 001|BaseLayer
+  - first:
+      74: 7872881098076237796
+    second: FrontThings001|Base|Take 001|BaseLayer
+  - first:
+      74: -3397417755511142084
+    second: FrontThings001|BodyRotation|Take 001|BaseLayer
+  - first:
+      74: 112493876427708188
+    second: FrontThings001|Body|Take 001|BaseLayer
+  - first:
+      74: -116857085630107948
+    second: FrontThings001|ChamferBox001|Take 001|BaseLayer
+  - first:
+      74: 6331467383376902650
+    second: FrontThings001|Cylinder001|Take 001|BaseLayer
+  - first:
+      74: -7453771864250973001
+    second: FrontThings001|FrontGunL|Take 001|BaseLayer
+  - first:
+      74: -1038216292648944676
+    second: FrontThings001|FrontGunMovementL|Take 001|BaseLayer
+  - first:
+      74: 1395384237282370586
+    second: FrontThings001|FrontGunMovementR|Take 001|BaseLayer
+  - first:
+      74: 6075699568887051100
+    second: FrontThings001|FrontGunR|Take 001|BaseLayer
+  - first:
+      74: -2478738608269406294
+    second: FrontThings001|FrontThings001|Take 001|BaseLayer
+  - first:
+      74: 1389314163231618591
+    second: FrontThings001|FrontThings|Take 001|BaseLayer
+  - first:
+      74: 2549523587117380134
+    second: FrontThings001|Graper|Take 001|BaseLayer
+  - first:
+      74: 8992470761056146667
+    second: FrontThings001|GunL|Take 001|BaseLayer
+  - first:
+      74: 3788917413682515537
+    second: FrontThings001|GunProtectionL|Take 001|BaseLayer
+  - first:
+      74: -5189329327621856781
+    second: FrontThings001|GunProtectionR|Take 001|BaseLayer
+  - first:
+      74: -1691791339343513441
+    second: FrontThings001|GunRotation|Take 001|BaseLayer
+  - first:
+      74: -8904592214041090123
+    second: FrontThings001|GunR|Take 001|BaseLayer
+  - first:
+      74: -4693223735980983166
+    second: FrontThings001|GunSupport|Take 001|BaseLayer
+  - first:
+      74: 8972199939091151216
+    second: FrontThings001|Loft002|Take 001|BaseLayer
+  - first:
+      74: 789225380945193073
+    second: FrontThings001|MiddleGunMovementL|Take 001|BaseLayer
+  - first:
+      74: -2011579531165461003
+    second: FrontThings001|MiddleGunMovementR|Take 001|BaseLayer
+  - first:
+      74: -861194529503122216
+    second: FrontThings001|PhotometricLight001|Take 001|BaseLayer
+  - first:
+      74: 5116289595988735576
+    second: FrontThings001|PhotometricLight002|Take 001|BaseLayer
+  - first:
+      74: -1517910551856796219
+    second: FrontThings001|PhotometricLight003|Take 001|BaseLayer
+  - first:
+      74: -5026420803997330305
+    second: FrontThings001|Plane001|Take 001|BaseLayer
+  - first:
+      74: 5272505968055814949
+    second: FrontThings001|Rectangle001|Take 001|BaseLayer
+  - first:
+      74: -6737615452053057442
+    second: FrontThings001|ScopeRotation|Take 001|BaseLayer
+  - first:
+      74: -7819304456396656251
+    second: FrontThings001|Scope|Take 001|BaseLayer
+  - first:
+      74: -8216779192749601637
+    second: FrontThings001|ShieldRotation|Take 001|BaseLayer
+  - first:
+      74: 7383139563718444272
+    second: FrontThings001|ShieldSupport|Take 001|BaseLayer
+  - first:
+      74: -114784322582337611
+    second: FrontThings001|ShieldSupRotation|Take 001|BaseLayer
+  - first:
+      74: 6291652273594243779
+    second: FrontThings001|Shield|Take 001|BaseLayer
+  - first:
+      74: -5244344457579057664
+    second: GunSupport|Antena|Take 001|BaseLayer
+  - first:
+      74: -8626643580008758866
+    second: GunSupport|BackGunL|Take 001|BaseLayer
+  - first:
+      74: -1244465843362684284
+    second: GunSupport|BackGunMovementL|Take 001|BaseLayer
+  - first:
+      74: -3368803341417950750
+    second: GunSupport|BackGunMovementR|Take 001|BaseLayer
+  - first:
+      74: 9189679709720092204
+    second: GunSupport|BackGunR|Take 001|BaseLayer
+  - first:
+      74: -7443888036915654900
+    second: GunSupport|Base|Take 001|BaseLayer
+  - first:
+      74: -1926577902764325846
+    second: GunSupport|BodyRotation|Take 001|BaseLayer
+  - first:
+      74: 7894364502029413099
+    second: GunSupport|Body|Take 001|BaseLayer
+  - first:
+      74: 2711496648567330459
+    second: GunSupport|ChamferBox001|Take 001|BaseLayer
+  - first:
+      74: -1397111790755346746
+    second: GunSupport|Cylinder001|Take 001|BaseLayer
+  - first:
+      74: -6862021091768990758
+    second: GunSupport|FrontGunL|Take 001|BaseLayer
+  - first:
+      74: 8001848192627322408
+    second: GunSupport|FrontGunMovementL|Take 001|BaseLayer
+  - first:
+      74: 1072637056520288876
+    second: GunSupport|FrontGunMovementR|Take 001|BaseLayer
+  - first:
+      74: -2350146754318000642
+    second: GunSupport|FrontGunR|Take 001|BaseLayer
+  - first:
+      74: 3693792083061018339
+    second: GunSupport|FrontThings001|Take 001|BaseLayer
+  - first:
+      74: -4166529265099373137
+    second: GunSupport|FrontThings|Take 001|BaseLayer
+  - first:
+      74: 6358576094099576494
+    second: GunSupport|Graper|Take 001|BaseLayer
+  - first:
+      74: -2239946989734985732
+    second: GunSupport|GunL|Take 001|BaseLayer
+  - first:
+      74: 8965451386837128171
+    second: GunSupport|GunProtectionL|Take 001|BaseLayer
+  - first:
+      74: 2595505305076648431
+    second: GunSupport|GunProtectionR|Take 001|BaseLayer
+  - first:
+      74: -8666467063043586757
+    second: GunSupport|GunRotation|Take 001|BaseLayer
+  - first:
+      74: 4915775707915883018
+    second: GunSupport|GunR|Take 001|BaseLayer
+  - first:
+      74: 6987072363153608791
+    second: GunSupport|GunSupport|Take 001|BaseLayer
+  - first:
+      74: -6024594450623205437
+    second: GunSupport|Loft002|Take 001|BaseLayer
+  - first:
+      74: -7877074364289299614
+    second: GunSupport|MiddleGunMovementL|Take 001|BaseLayer
+  - first:
+      74: 9120723773332089259
+    second: GunSupport|MiddleGunMovementR|Take 001|BaseLayer
+  - first:
+      74: -9195534935952062969
+    second: GunSupport|PhotometricLight001|Take 001|BaseLayer
+  - first:
+      74: 9051038049812511552
+    second: GunSupport|PhotometricLight002|Take 001|BaseLayer
+  - first:
+      74: 4983362585004726010
+    second: GunSupport|PhotometricLight003|Take 001|BaseLayer
+  - first:
+      74: 7679283872602069136
+    second: GunSupport|Plane001|Take 001|BaseLayer
+  - first:
+      74: -7113418691226504986
+    second: GunSupport|Rectangle001|Take 001|BaseLayer
+  - first:
+      74: -2455182160037237888
+    second: GunSupport|ScopeRotation|Take 001|BaseLayer
+  - first:
+      74: -4492082438158280861
+    second: GunSupport|Scope|Take 001|BaseLayer
+  - first:
+      74: 4517897984454298712
+    second: GunSupport|ShieldRotation|Take 001|BaseLayer
+  - first:
+      74: 2618294871329419225
+    second: GunSupport|ShieldSupport|Take 001|BaseLayer
+  - first:
+      74: 6865663261564815051
+    second: GunSupport|ShieldSupRotation|Take 001|BaseLayer
+  - first:
+      74: -6695019413673114594
+    second: GunSupport|Shield|Take 001|BaseLayer
+  - first:
+      74: -6979728880557354559
+    second: Scope|Antena|Take 001|BaseLayer
+  - first:
+      74: 7037376309029655199
+    second: Scope|BackGunL|Take 001|BaseLayer
+  - first:
+      74: 6225617858393875449
+    second: Scope|BackGunMovementL|Take 001|BaseLayer
+  - first:
+      74: 3299265891174130708
+    second: Scope|BackGunMovementR|Take 001|BaseLayer
+  - first:
+      74: 8763237077370076838
+    second: Scope|BackGunR|Take 001|BaseLayer
+  - first:
+      74: -3891738147208318211
+    second: Scope|Base|Take 001|BaseLayer
+  - first:
+      74: 3192186516539400064
+    second: Scope|BodyRotation|Take 001|BaseLayer
+  - first:
+      74: 4859916085781085113
+    second: Scope|Body|Take 001|BaseLayer
+  - first:
+      74: 794777712339882866
+    second: Scope|ChamferBox001|Take 001|BaseLayer
+  - first:
+      74: 157438386711281914
+    second: Scope|Cylinder001|Take 001|BaseLayer
+  - first:
+      74: -3967804517981850111
+    second: Scope|FrontGunL|Take 001|BaseLayer
+  - first:
+      74: -3211582697219843379
+    second: Scope|FrontGunMovementL|Take 001|BaseLayer
+  - first:
+      74: 5816145403010887141
+    second: Scope|FrontGunMovementR|Take 001|BaseLayer
+  - first:
+      74: 8890407539384627466
+    second: Scope|FrontGunR|Take 001|BaseLayer
+  - first:
+      74: 7669925921182554507
+    second: Scope|FrontThings001|Take 001|BaseLayer
+  - first:
+      74: 7701089058503294164
+    second: Scope|FrontThings|Take 001|BaseLayer
+  - first:
+      74: 4763589730261426267
+    second: Scope|Graper|Take 001|BaseLayer
+  - first:
+      74: 961113277728301170
+    second: Scope|GunL|Take 001|BaseLayer
+  - first:
+      74: -992780598640277351
+    second: Scope|GunProtectionL|Take 001|BaseLayer
+  - first:
+      74: -6622870211953259933
+    second: Scope|GunProtectionR|Take 001|BaseLayer
+  - first:
+      74: 7841710267474485051
+    second: Scope|GunRotation|Take 001|BaseLayer
+  - first:
+      74: 1161668310564323548
+    second: Scope|GunR|Take 001|BaseLayer
+  - first:
+      74: -5614454348886805257
+    second: Scope|GunSupport|Take 001|BaseLayer
+  - first:
+      74: 670364442235898277
+    second: Scope|Loft002|Take 001|BaseLayer
+  - first:
+      74: 3143652474144774112
+    second: Scope|MiddleGunMovementL|Take 001|BaseLayer
+  - first:
+      74: 7717821823350023986
+    second: Scope|MiddleGunMovementR|Take 001|BaseLayer
+  - first:
+      74: -4776181154447240991
+    second: Scope|PhotometricLight001|Take 001|BaseLayer
+  - first:
+      74: -30026111889017076
+    second: Scope|PhotometricLight002|Take 001|BaseLayer
+  - first:
+      74: -3063387813255498490
+    second: Scope|PhotometricLight003|Take 001|BaseLayer
+  - first:
+      74: 5609445262377811042
+    second: Scope|Plane001|Take 001|BaseLayer
+  - first:
+      74: -5346113416022765439
+    second: Scope|Rectangle001|Take 001|BaseLayer
+  - first:
+      74: -1688275407478340544
+    second: Scope|ScopeRotation|Take 001|BaseLayer
+  - first:
+      74: -4508717169584230341
+    second: Scope|Scope|Take 001|BaseLayer
+  - first:
+      74: 4509089530725531133
+    second: Scope|ShieldRotation|Take 001|BaseLayer
+  - first:
+      74: -7695926462190538969
+    second: Scope|ShieldSupport|Take 001|BaseLayer
+  - first:
+      74: -5828578486719089438
+    second: Scope|ShieldSupRotation|Take 001|BaseLayer
+  - first:
+      74: 1724969103217056350
+    second: Scope|Shield|Take 001|BaseLayer
+  - first:
+      74: 2664105248407161282
+    second: ScopeRotation|Antena|Take 001|BaseLayer
+  - first:
+      74: 9110285731327699834
+    second: ScopeRotation|BackGunL|Take 001|BaseLayer
+  - first:
+      74: -2370009426507240201
+    second: ScopeRotation|BackGunMovementL|Take 001|BaseLayer
+  - first:
+      74: -2948863371848780139
+    second: ScopeRotation|BackGunMovementR|Take 001|BaseLayer
+  - first:
+      74: 1087193410370324477
+    second: ScopeRotation|BackGunR|Take 001|BaseLayer
+  - first:
+      74: 3656573744816838951
+    second: ScopeRotation|Base|Take 001|BaseLayer
+  - first:
+      74: 8965043362902957475
+    second: ScopeRotation|BodyRotation|Take 001|BaseLayer
+  - first:
+      74: 4451719757394539142
+    second: ScopeRotation|Body|Take 001|BaseLayer
+  - first:
+      74: 1662806071319787395
+    second: ScopeRotation|ChamferBox001|Take 001|BaseLayer
+  - first:
+      74: 3039917014248022998
+    second: ScopeRotation|Cylinder001|Take 001|BaseLayer
+  - first:
+      74: 5487621494927462677
+    second: ScopeRotation|FrontGunL|Take 001|BaseLayer
+  - first:
+      74: -7327283627864218454
+    second: ScopeRotation|FrontGunMovementL|Take 001|BaseLayer
+  - first:
+      74: -4187227310569245272
+    second: ScopeRotation|FrontGunMovementR|Take 001|BaseLayer
+  - first:
+      74: -999247389161993780
+    second: ScopeRotation|FrontGunR|Take 001|BaseLayer
+  - first:
+      74: 2866277985209823204
+    second: ScopeRotation|FrontThings001|Take 001|BaseLayer
+  - first:
+      74: -395012947433382111
+    second: ScopeRotation|FrontThings|Take 001|BaseLayer
+  - first:
+      74: -346039069536250705
+    second: ScopeRotation|Graper|Take 001|BaseLayer
+  - first:
+      74: 5389023809332423998
+    second: ScopeRotation|GunL|Take 001|BaseLayer
+  - first:
+      74: 5622381585909800099
+    second: ScopeRotation|GunProtectionL|Take 001|BaseLayer
+  - first:
+      74: -9099641318137128180
+    second: ScopeRotation|GunProtectionR|Take 001|BaseLayer
+  - first:
+      74: -5865093433944265463
+    second: ScopeRotation|GunRotation|Take 001|BaseLayer
+  - first:
+      74: -1998008938799512875
+    second: ScopeRotation|GunR|Take 001|BaseLayer
+  - first:
+      74: 5327858187731477983
+    second: ScopeRotation|GunSupport|Take 001|BaseLayer
+  - first:
+      74: -8058206373749828448
+    second: ScopeRotation|Loft002|Take 001|BaseLayer
+  - first:
+      74: -4157542064689411029
+    second: ScopeRotation|MiddleGunMovementL|Take 001|BaseLayer
+  - first:
+      74: 7455751068178000202
+    second: ScopeRotation|MiddleGunMovementR|Take 001|BaseLayer
+  - first:
+      74: 7102536861966292762
+    second: ScopeRotation|PhotometricLight001|Take 001|BaseLayer
+  - first:
+      74: 5023266554417920072
+    second: ScopeRotation|PhotometricLight002|Take 001|BaseLayer
+  - first:
+      74: -4549486455596731999
+    second: ScopeRotation|PhotometricLight003|Take 001|BaseLayer
+  - first:
+      74: 8921421455369353835
+    second: ScopeRotation|Plane001|Take 001|BaseLayer
+  - first:
+      74: -5943718038153397858
+    second: ScopeRotation|Rectangle001|Take 001|BaseLayer
+  - first:
+      74: -2700486315791168286
+    second: ScopeRotation|ScopeRotation|Take 001|BaseLayer
+  - first:
+      74: -3968038490790276418
+    second: ScopeRotation|Scope|Take 001|BaseLayer
+  - first:
+      74: -5320642818056975161
+    second: ScopeRotation|ShieldRotation|Take 001|BaseLayer
+  - first:
+      74: 7669424678671458892
+    second: ScopeRotation|ShieldSupport|Take 001|BaseLayer
+  - first:
+      74: 5599362672870662090
+    second: ScopeRotation|ShieldSupRotation|Take 001|BaseLayer
+  - first:
+      74: -1472735590213062170
+    second: ScopeRotation|Shield|Take 001|BaseLayer
+  - first:
+      74: 1916765581791735945
+    second: Body|Antena|Take 001|BaseLayer
+  - first:
+      74: 1281945542920548023
+    second: Body|BackGunL|Take 001|BaseLayer
+  - first:
+      74: 7576762784705417466
+    second: Body|BackGunMovementL|Take 001|BaseLayer
+  - first:
+      74: -5701307624537427220
+    second: Body|BackGunMovementR|Take 001|BaseLayer
+  - first:
+      74: -3672273430473866475
+    second: Body|BackGunR|Take 001|BaseLayer
+  - first:
+      74: -4232502560380428661
+    second: Body|Base|Take 001|BaseLayer
+  - first:
+      74: 8874858947702755806
+    second: Body|BodyRotation|Take 001|BaseLayer
+  - first:
+      74: 1477795084196408254
+    second: Body|Body|Take 001|BaseLayer
+  - first:
+      74: -7121236769243455137
+    second: Body|ChamferBox001|Take 001|BaseLayer
+  - first:
+      74: -8906193286450204955
+    second: Body|Cylinder001|Take 001|BaseLayer
+  - first:
+      74: 2738688387287865400
+    second: Body|FrontGunL|Take 001|BaseLayer
+  - first:
+      74: -376856892631934592
+    second: Body|FrontGunMovementL|Take 001|BaseLayer
+  - first:
+      74: 1865908236507958427
+    second: Body|FrontGunMovementR|Take 001|BaseLayer
+  - first:
+      74: 1200008330084383304
+    second: Body|FrontGunR|Take 001|BaseLayer
+  - first:
+      74: 4171819417247173637
+    second: Body|FrontThings001|Take 001|BaseLayer
+  - first:
+      74: -2661425043421668317
+    second: Body|FrontThings|Take 001|BaseLayer
+  - first:
+      74: 5788231755968175549
+    second: Body|Graper|Take 001|BaseLayer
+  - first:
+      74: -8189533344282342308
+    second: Body|GunL|Take 001|BaseLayer
+  - first:
+      74: -8776600654202036052
+    second: Body|GunProtectionL|Take 001|BaseLayer
+  - first:
+      74: 8831327427961444798
+    second: Body|GunProtectionR|Take 001|BaseLayer
+  - first:
+      74: -6460250339609605226
+    second: Body|GunRotation|Take 001|BaseLayer
+  - first:
+      74: 2376991020221810013
+    second: Body|GunR|Take 001|BaseLayer
+  - first:
+      74: 6319639530897200
+    second: Body|GunSupport|Take 001|BaseLayer
+  - first:
+      74: 8235681013899326561
+    second: Body|Loft002|Take 001|BaseLayer
+  - first:
+      74: 3567416951001551532
+    second: Body|MiddleGunMovementL|Take 001|BaseLayer
+  - first:
+      74: 2268187340293239773
+    second: Body|MiddleGunMovementR|Take 001|BaseLayer
+  - first:
+      74: 1202591088266060611
+    second: Body|PhotometricLight001|Take 001|BaseLayer
+  - first:
+      74: -1681769983971873683
+    second: Body|PhotometricLight002|Take 001|BaseLayer
+  - first:
+      74: -3246501056538547753
+    second: Body|PhotometricLight003|Take 001|BaseLayer
+  - first:
+      74: 8626242467009068641
+    second: Body|Plane001|Take 001|BaseLayer
+  - first:
+      74: 6349934845425693387
+    second: Body|Rectangle001|Take 001|BaseLayer
+  - first:
+      74: 1922615071798299235
+    second: Body|ScopeRotation|Take 001|BaseLayer
+  - first:
+      74: -7553413512042662818
+    second: Body|Scope|Take 001|BaseLayer
+  - first:
+      74: 7129032178400343509
+    second: Body|ShieldRotation|Take 001|BaseLayer
+  - first:
+      74: -2273751923168379588
+    second: Body|ShieldSupport|Take 001|BaseLayer
+  - first:
+      74: -262698169406905246
+    second: Body|ShieldSupRotation|Take 001|BaseLayer
+  - first:
+      74: 6405001200179477402
+    second: Body|Shield|Take 001|BaseLayer
+  - first:
+      74: 4760976621881014314
+    second: BackGunL|Antena|Take 001|BaseLayer
+  - first:
+      74: 9222717897513216096
+    second: BackGunL|BackGunL|Take 001|BaseLayer
+  - first:
+      74: -5050576238503413667
+    second: BackGunL|BackGunMovementL|Take 001|BaseLayer
+  - first:
+      74: 6877401495071800939
+    second: BackGunL|BackGunMovementR|Take 001|BaseLayer
+  - first:
+      74: -4576327753350564444
+    second: BackGunL|BackGunR|Take 001|BaseLayer
+  - first:
+      74: 7961087942604844420
+    second: BackGunL|Base|Take 001|BaseLayer
+  - first:
+      74: -4025764250867974903
+    second: BackGunL|BodyRotation|Take 001|BaseLayer
+  - first:
+      74: -7623345763961719521
+    second: BackGunL|Body|Take 001|BaseLayer
+  - first:
+      74: -8281762431870017738
+    second: BackGunL|ChamferBox001|Take 001|BaseLayer
+  - first:
+      74: -8904356601685845972
+    second: BackGunL|Cylinder001|Take 001|BaseLayer
+  - first:
+      74: 4785263979594387243
+    second: BackGunL|FrontGunL|Take 001|BaseLayer
+  - first:
+      74: 3527258247148661125
+    second: BackGunL|FrontGunMovementL|Take 001|BaseLayer
+  - first:
+      74: 8044951297273853722
+    second: BackGunL|FrontGunMovementR|Take 001|BaseLayer
+  - first:
+      74: 6499387101069507738
+    second: BackGunL|FrontGunR|Take 001|BaseLayer
+  - first:
+      74: -5024024398894414467
+    second: BackGunL|FrontThings001|Take 001|BaseLayer
+  - first:
+      74: 2966714004422619118
+    second: BackGunL|FrontThings|Take 001|BaseLayer
+  - first:
+      74: 6567387948216211704
+    second: BackGunL|Graper|Take 001|BaseLayer
+  - first:
+      74: -4510967993804136454
+    second: BackGunL|GunL|Take 001|BaseLayer
+  - first:
+      74: -3430500801191568239
+    second: BackGunL|GunProtectionL|Take 001|BaseLayer
+  - first:
+      74: 6637464335631210635
+    second: BackGunL|GunProtectionR|Take 001|BaseLayer
+  - first:
+      74: 1496844935148352491
+    second: BackGunL|GunRotation|Take 001|BaseLayer
+  - first:
+      74: 3498261389455154175
+    second: BackGunL|GunR|Take 001|BaseLayer
+  - first:
+      74: -2389130493619364486
+    second: BackGunL|GunSupport|Take 001|BaseLayer
+  - first:
+      74: -964803687932672052
+    second: BackGunL|Loft002|Take 001|BaseLayer
+  - first:
+      74: -7057310471179566424
+    second: BackGunL|MiddleGunMovementL|Take 001|BaseLayer
+  - first:
+      74: -2480652488403973811
+    second: BackGunL|MiddleGunMovementR|Take 001|BaseLayer
+  - first:
+      74: 5482554983091564271
+    second: BackGunL|PhotometricLight001|Take 001|BaseLayer
+  - first:
+      74: -3662061361660162484
+    second: BackGunL|PhotometricLight002|Take 001|BaseLayer
+  - first:
+      74: 6610543314211180967
+    second: BackGunL|PhotometricLight003|Take 001|BaseLayer
+  - first:
+      74: -852293264096146822
+    second: BackGunL|Plane001|Take 001|BaseLayer
+  - first:
+      74: 4374660748226907890
+    second: BackGunL|Rectangle001|Take 001|BaseLayer
+  - first:
+      74: -7740025929047876892
+    second: BackGunL|ScopeRotation|Take 001|BaseLayer
+  - first:
+      74: 410244486343534364
+    second: BackGunL|Scope|Take 001|BaseLayer
+  - first:
+      74: 1763269429213219237
+    second: BackGunL|ShieldRotation|Take 001|BaseLayer
+  - first:
+      74: 8890554342088439831
+    second: BackGunL|ShieldSupport|Take 001|BaseLayer
+  - first:
+      74: 3802229066192575575
+    second: BackGunL|ShieldSupRotation|Take 001|BaseLayer
+  - first:
+      74: -1277796148571319941
+    second: BackGunL|Shield|Take 001|BaseLayer
+  - first:
+      74: 7870295558668401906
+    second: FrontGunL|Antena|Take 001|BaseLayer
+  - first:
+      74: 7100099965353618481
+    second: FrontGunL|BackGunL|Take 001|BaseLayer
+  - first:
+      74: 8288670400847119748
+    second: FrontGunL|BackGunMovementL|Take 001|BaseLayer
+  - first:
+      74: -9134554398093148544
+    second: FrontGunL|BackGunMovementR|Take 001|BaseLayer
+  - first:
+      74: -4276272489409920377
+    second: FrontGunL|BackGunR|Take 001|BaseLayer
+  - first:
+      74: -6014594447116912625
+    second: FrontGunL|Base|Take 001|BaseLayer
+  - first:
+      74: -7824572619188334746
+    second: FrontGunL|BodyRotation|Take 001|BaseLayer
+  - first:
+      74: 3696409963944056532
+    second: FrontGunL|Body|Take 001|BaseLayer
+  - first:
+      74: -1711729175970893185
+    second: FrontGunL|ChamferBox001|Take 001|BaseLayer
+  - first:
+      74: 5347900321948612412
+    second: FrontGunL|Cylinder001|Take 001|BaseLayer
+  - first:
+      74: 6223798785306416429
+    second: FrontGunL|FrontGunL|Take 001|BaseLayer
+  - first:
+      74: 8573368825052107309
+    second: FrontGunL|FrontGunMovementL|Take 001|BaseLayer
+  - first:
+      74: 8740697945540747333
+    second: FrontGunL|FrontGunMovementR|Take 001|BaseLayer
+  - first:
+      74: 4112455774712647558
+    second: FrontGunL|FrontGunR|Take 001|BaseLayer
+  - first:
+      74: 3525175013317217518
+    second: FrontGunL|FrontThings001|Take 001|BaseLayer
+  - first:
+      74: -4952992921160086195
+    second: FrontGunL|FrontThings|Take 001|BaseLayer
+  - first:
+      74: 1783121082860200279
+    second: FrontGunL|Graper|Take 001|BaseLayer
+  - first:
+      74: -1359844086515783570
+    second: FrontGunL|GunL|Take 001|BaseLayer
+  - first:
+      74: 7156479822898228642
+    second: FrontGunL|GunProtectionL|Take 001|BaseLayer
+  - first:
+      74: 6251389535969728148
+    second: FrontGunL|GunProtectionR|Take 001|BaseLayer
+  - first:
+      74: -2472192919428430543
+    second: FrontGunL|GunRotation|Take 001|BaseLayer
+  - first:
+      74: 5010656905584658472
+    second: FrontGunL|GunR|Take 001|BaseLayer
+  - first:
+      74: 1031170496706390977
+    second: FrontGunL|GunSupport|Take 001|BaseLayer
+  - first:
+      74: 5772538977198459953
+    second: FrontGunL|Loft002|Take 001|BaseLayer
+  - first:
+      74: 1660503558249978693
+    second: FrontGunL|MiddleGunMovementL|Take 001|BaseLayer
+  - first:
+      74: 735386623387289829
+    second: FrontGunL|MiddleGunMovementR|Take 001|BaseLayer
+  - first:
+      74: -8912035523922724510
+    second: FrontGunL|PhotometricLight001|Take 001|BaseLayer
+  - first:
+      74: -2078903578573433072
+    second: FrontGunL|PhotometricLight002|Take 001|BaseLayer
+  - first:
+      74: -8570172160564067054
+    second: FrontGunL|PhotometricLight003|Take 001|BaseLayer
+  - first:
+      74: 701890745266916422
+    second: FrontGunL|Plane001|Take 001|BaseLayer
+  - first:
+      74: 6857964142091796616
+    second: FrontGunL|Rectangle001|Take 001|BaseLayer
+  - first:
+      74: -1065839546572268055
+    second: FrontGunL|ScopeRotation|Take 001|BaseLayer
+  - first:
+      74: 277814069110722030
+    second: FrontGunL|Scope|Take 001|BaseLayer
+  - first:
+      74: -6638031396866700185
+    second: FrontGunL|ShieldRotation|Take 001|BaseLayer
+  - first:
+      74: 3592125806354818330
+    second: FrontGunL|ShieldSupport|Take 001|BaseLayer
+  - first:
+      74: 6193603541462362577
+    second: FrontGunL|ShieldSupRotation|Take 001|BaseLayer
+  - first:
+      74: 3516702159043551824
+    second: FrontGunL|Shield|Take 001|BaseLayer
+  - first:
+      74: 8276998671622070517
+    second: FrontGunMovementL|Antena|Take 001|BaseLayer
+  - first:
+      74: 4368206354925021135
+    second: FrontGunMovementL|BackGunL|Take 001|BaseLayer
+  - first:
+      74: -160529454744693102
+    second: FrontGunMovementL|BackGunMovementL|Take 001|BaseLayer
+  - first:
+      74: -7184915774297569177
+    second: FrontGunMovementL|BackGunMovementR|Take 001|BaseLayer
+  - first:
+      74: 2675244594641762046
+    second: FrontGunMovementL|BackGunR|Take 001|BaseLayer
+  - first:
+      74: -3616545537990549129
+    second: FrontGunMovementL|Base|Take 001|BaseLayer
+  - first:
+      74: -3673691483977336527
+    second: FrontGunMovementL|BodyRotation|Take 001|BaseLayer
+  - first:
+      74: -593527704386633436
+    second: FrontGunMovementL|Body|Take 001|BaseLayer
+  - first:
+      74: 2693965489473120677
+    second: FrontGunMovementL|ChamferBox001|Take 001|BaseLayer
+  - first:
+      74: -1983339956346790486
+    second: FrontGunMovementL|Cylinder001|Take 001|BaseLayer
+  - first:
+      74: 1895565084884212716
+    second: FrontGunMovementL|FrontGunL|Take 001|BaseLayer
+  - first:
+      74: 6818233556776085990
+    second: FrontGunMovementL|FrontGunMovementL|Take 001|BaseLayer
+  - first:
+      74: 5824746156650544899
+    second: FrontGunMovementL|FrontGunMovementR|Take 001|BaseLayer
+  - first:
+      74: 8249054845774054327
+    second: FrontGunMovementL|FrontGunR|Take 001|BaseLayer
+  - first:
+      74: 3044630940879450696
+    second: FrontGunMovementL|FrontThings001|Take 001|BaseLayer
+  - first:
+      74: 6402231829300484250
+    second: FrontGunMovementL|FrontThings|Take 001|BaseLayer
+  - first:
+      74: 2267744083167441651
+    second: FrontGunMovementL|Graper|Take 001|BaseLayer
+  - first:
+      74: -3439485262816446469
+    second: FrontGunMovementL|GunL|Take 001|BaseLayer
+  - first:
+      74: 3805157310870866268
+    second: FrontGunMovementL|GunProtectionL|Take 001|BaseLayer
+  - first:
+      74: -7731131012426754418
+    second: FrontGunMovementL|GunProtectionR|Take 001|BaseLayer
+  - first:
+      74: -4542848784842295786
+    second: FrontGunMovementL|GunRotation|Take 001|BaseLayer
+  - first:
+      74: -2975109442972766754
+    second: FrontGunMovementL|GunR|Take 001|BaseLayer
+  - first:
+      74: -8631800897275533960
+    second: FrontGunMovementL|GunSupport|Take 001|BaseLayer
+  - first:
+      74: 3156638342436546372
+    second: FrontGunMovementL|Loft002|Take 001|BaseLayer
+  - first:
+      74: 1548501690493681506
+    second: FrontGunMovementL|MiddleGunMovementL|Take 001|BaseLayer
+  - first:
+      74: -8718110903147970182
+    second: FrontGunMovementL|MiddleGunMovementR|Take 001|BaseLayer
+  - first:
+      74: -6815925079662685954
+    second: FrontGunMovementL|PhotometricLight001|Take 001|BaseLayer
+  - first:
+      74: 7489861018097297961
+    second: FrontGunMovementL|PhotometricLight002|Take 001|BaseLayer
+  - first:
+      74: 3615028433060413228
+    second: FrontGunMovementL|PhotometricLight003|Take 001|BaseLayer
+  - first:
+      74: 9086711818975188919
+    second: FrontGunMovementL|Plane001|Take 001|BaseLayer
+  - first:
+      74: -2228161286389250598
+    second: FrontGunMovementL|Rectangle001|Take 001|BaseLayer
+  - first:
+      74: 1593850415717484936
+    second: FrontGunMovementL|ScopeRotation|Take 001|BaseLayer
+  - first:
+      74: 7383834045689268999
+    second: FrontGunMovementL|Scope|Take 001|BaseLayer
+  - first:
+      74: 7967740641069180340
+    second: FrontGunMovementL|ShieldRotation|Take 001|BaseLayer
+  - first:
+      74: -7232619774348800282
+    second: FrontGunMovementL|ShieldSupport|Take 001|BaseLayer
+  - first:
+      74: 6895736859838573438
+    second: FrontGunMovementL|ShieldSupRotation|Take 001|BaseLayer
+  - first:
+      74: -71921047795325115
+    second: FrontGunMovementL|Shield|Take 001|BaseLayer
+  - first:
+      74: 9035896816498281417
+    second: MiddleGunMovementL|Antena|Take 001|BaseLayer
+  - first:
+      74: 6283900774898188153
+    second: MiddleGunMovementL|BackGunL|Take 001|BaseLayer
+  - first:
+      74: 8539093999519654221
+    second: MiddleGunMovementL|BackGunMovementL|Take 001|BaseLayer
+  - first:
+      74: 2640081478823529600
+    second: MiddleGunMovementL|BackGunMovementR|Take 001|BaseLayer
+  - first:
+      74: 2880098462848743904
+    second: MiddleGunMovementL|BackGunR|Take 001|BaseLayer
+  - first:
+      74: -1611516271132879550
+    second: MiddleGunMovementL|Base|Take 001|BaseLayer
+  - first:
+      74: -1147249306292984776
+    second: MiddleGunMovementL|BodyRotation|Take 001|BaseLayer
+  - first:
+      74: 583830879832545183
+    second: MiddleGunMovementL|Body|Take 001|BaseLayer
+  - first:
+      74: 2426771160860492239
+    second: MiddleGunMovementL|ChamferBox001|Take 001|BaseLayer
+  - first:
+      74: 4167276060248903882
+    second: MiddleGunMovementL|Cylinder001|Take 001|BaseLayer
+  - first:
+      74: -3904734485947390463
+    second: MiddleGunMovementL|FrontGunL|Take 001|BaseLayer
+  - first:
+      74: -4393452991027887096
+    second: MiddleGunMovementL|FrontGunMovementL|Take 001|BaseLayer
+  - first:
+      74: 6590755794343660076
+    second: MiddleGunMovementL|FrontGunMovementR|Take 001|BaseLayer
+  - first:
+      74: -8130333969442374834
+    second: MiddleGunMovementL|FrontGunR|Take 001|BaseLayer
+  - first:
+      74: 3762921818688391647
+    second: MiddleGunMovementL|FrontThings001|Take 001|BaseLayer
+  - first:
+      74: -8044109904952815662
+    second: MiddleGunMovementL|FrontThings|Take 001|BaseLayer
+  - first:
+      74: -4423487310073060592
+    second: MiddleGunMovementL|Graper|Take 001|BaseLayer
+  - first:
+      74: -2699401136092097154
+    second: MiddleGunMovementL|GunL|Take 001|BaseLayer
+  - first:
+      74: 4125594778416447454
+    second: MiddleGunMovementL|GunProtectionL|Take 001|BaseLayer
+  - first:
+      74: 6795661197723796988
+    second: MiddleGunMovementL|GunProtectionR|Take 001|BaseLayer
+  - first:
+      74: -6122309585842179404
+    second: MiddleGunMovementL|GunRotation|Take 001|BaseLayer
+  - first:
+      74: -565225480139734090
+    second: MiddleGunMovementL|GunR|Take 001|BaseLayer
+  - first:
+      74: -3535684730453581651
+    second: MiddleGunMovementL|GunSupport|Take 001|BaseLayer
+  - first:
+      74: -2797723444018294998
+    second: MiddleGunMovementL|Loft002|Take 001|BaseLayer
+  - first:
+      74: 7190327176726494764
+    second: MiddleGunMovementL|MiddleGunMovementL|Take 001|BaseLayer
+  - first:
+      74: 5948837246262112235
+    second: MiddleGunMovementL|MiddleGunMovementR|Take 001|BaseLayer
+  - first:
+      74: -434511313246179763
+    second: MiddleGunMovementL|PhotometricLight001|Take 001|BaseLayer
+  - first:
+      74: -4951170248662049437
+    second: MiddleGunMovementL|PhotometricLight002|Take 001|BaseLayer
+  - first:
+      74: -6418244270536136207
+    second: MiddleGunMovementL|PhotometricLight003|Take 001|BaseLayer
+  - first:
+      74: -3936025069948018989
+    second: MiddleGunMovementL|Plane001|Take 001|BaseLayer
+  - first:
+      74: -3669552168370317272
+    second: MiddleGunMovementL|Rectangle001|Take 001|BaseLayer
+  - first:
+      74: 4805640422816490720
+    second: MiddleGunMovementL|ScopeRotation|Take 001|BaseLayer
+  - first:
+      74: -1862578544699442846
+    second: MiddleGunMovementL|Scope|Take 001|BaseLayer
+  - first:
+      74: 2964874072274396334
+    second: MiddleGunMovementL|ShieldRotation|Take 001|BaseLayer
+  - first:
+      74: -7118455946875373903
+    second: MiddleGunMovementL|ShieldSupport|Take 001|BaseLayer
+  - first:
+      74: 8411980367270282070
+    second: MiddleGunMovementL|ShieldSupRotation|Take 001|BaseLayer
+  - first:
+      74: 7317784772018240065
+    second: MiddleGunMovementL|Shield|Take 001|BaseLayer
+  - first:
+      74: 5279293915572827002
+    second: BackGunR|Antena|Take 001|BaseLayer
+  - first:
+      74: -4330705138930490513
+    second: BackGunR|BackGunL|Take 001|BaseLayer
+  - first:
+      74: 8232455979747505311
+    second: BackGunR|BackGunMovementL|Take 001|BaseLayer
+  - first:
+      74: 1190492063378936352
+    second: BackGunR|BackGunMovementR|Take 001|BaseLayer
+  - first:
+      74: 3386192832631907866
+    second: BackGunR|BackGunR|Take 001|BaseLayer
+  - first:
+      74: -4676718429401577949
+    second: BackGunR|Base|Take 001|BaseLayer
+  - first:
+      74: -432971646279329769
+    second: BackGunR|BodyRotation|Take 001|BaseLayer
+  - first:
+      74: 8826079360927456950
+    second: BackGunR|Body|Take 001|BaseLayer
+  - first:
+      74: 6303414266742008682
+    second: BackGunR|ChamferBox001|Take 001|BaseLayer
+  - first:
+      74: -9073330232812233892
+    second: BackGunR|Cylinder001|Take 001|BaseLayer
+  - first:
+      74: 3917328362913677699
+    second: BackGunR|FrontGunL|Take 001|BaseLayer
+  - first:
+      74: 4978568582392009147
+    second: BackGunR|FrontGunMovementL|Take 001|BaseLayer
+  - first:
+      74: 2218112906739545033
+    second: BackGunR|FrontGunMovementR|Take 001|BaseLayer
+  - first:
+      74: -7292069416682237570
+    second: BackGunR|FrontGunR|Take 001|BaseLayer
+  - first:
+      74: -5790509644265185765
+    second: BackGunR|FrontThings001|Take 001|BaseLayer
+  - first:
+      74: 6801413210898917806
+    second: BackGunR|FrontThings|Take 001|BaseLayer
+  - first:
+      74: -3583746308509522651
+    second: BackGunR|Graper|Take 001|BaseLayer
+  - first:
+      74: 1197675231950180381
+    second: BackGunR|GunL|Take 001|BaseLayer
+  - first:
+      74: -3083560382399770962
+    second: BackGunR|GunProtectionL|Take 001|BaseLayer
+  - first:
+      74: -5494404257519278342
+    second: BackGunR|GunProtectionR|Take 001|BaseLayer
+  - first:
+      74: 3743424249615853107
+    second: BackGunR|GunRotation|Take 001|BaseLayer
+  - first:
+      74: 4967996713738870128
+    second: BackGunR|GunR|Take 001|BaseLayer
+  - first:
+      74: 2428652468442139961
+    second: BackGunR|GunSupport|Take 001|BaseLayer
+  - first:
+      74: 3868956096665682386
+    second: BackGunR|Loft002|Take 001|BaseLayer
+  - first:
+      74: -2153637475173288272
+    second: BackGunR|MiddleGunMovementL|Take 001|BaseLayer
+  - first:
+      74: -4854337952736296937
+    second: BackGunR|MiddleGunMovementR|Take 001|BaseLayer
+  - first:
+      74: -1583054905679189621
+    second: BackGunR|PhotometricLight001|Take 001|BaseLayer
+  - first:
+      74: -1932039969682099538
+    second: BackGunR|PhotometricLight002|Take 001|BaseLayer
+  - first:
+      74: 3126045042535176887
+    second: BackGunR|PhotometricLight003|Take 001|BaseLayer
+  - first:
+      74: -8878775575290171557
+    second: BackGunR|Plane001|Take 001|BaseLayer
+  - first:
+      74: -3330446357952499917
+    second: BackGunR|Rectangle001|Take 001|BaseLayer
+  - first:
+      74: 4861901979520707493
+    second: BackGunR|ScopeRotation|Take 001|BaseLayer
+  - first:
+      74: 1309127564904367754
+    second: BackGunR|Scope|Take 001|BaseLayer
+  - first:
+      74: 4202009119476097670
+    second: BackGunR|ShieldRotation|Take 001|BaseLayer
+  - first:
+      74: -3718845084152745248
+    second: BackGunR|ShieldSupport|Take 001|BaseLayer
+  - first:
+      74: -3764047534540671419
+    second: BackGunR|ShieldSupRotation|Take 001|BaseLayer
+  - first:
+      74: 4016847299185268124
+    second: BackGunR|Shield|Take 001|BaseLayer
+  - first:
+      74: 5830554338404537627
+    second: FrontGunR|Antena|Take 001|BaseLayer
+  - first:
+      74: 8420893441169478409
+    second: FrontGunR|BackGunL|Take 001|BaseLayer
+  - first:
+      74: 5034697924091983060
+    second: FrontGunR|BackGunMovementL|Take 001|BaseLayer
+  - first:
+      74: 7598721065548314784
+    second: FrontGunR|BackGunMovementR|Take 001|BaseLayer
+  - first:
+      74: -483376559084864106
+    second: FrontGunR|BackGunR|Take 001|BaseLayer
+  - first:
+      74: 8615856130051952187
+    second: FrontGunR|Base|Take 001|BaseLayer
+  - first:
+      74: -6234470939457762860
+    second: FrontGunR|BodyRotation|Take 001|BaseLayer
+  - first:
+      74: 4305526385487508852
+    second: FrontGunR|Body|Take 001|BaseLayer
+  - first:
+      74: -2759827100932401181
+    second: FrontGunR|ChamferBox001|Take 001|BaseLayer
+  - first:
+      74: -2559976050201523628
+    second: FrontGunR|Cylinder001|Take 001|BaseLayer
+  - first:
+      74: -8151042085313778244
+    second: FrontGunR|FrontGunL|Take 001|BaseLayer
+  - first:
+      74: -7234038457180644943
+    second: FrontGunR|FrontGunMovementL|Take 001|BaseLayer
+  - first:
+      74: -193650080300780711
+    second: FrontGunR|FrontGunMovementR|Take 001|BaseLayer
+  - first:
+      74: 3998304109694291011
+    second: FrontGunR|FrontGunR|Take 001|BaseLayer
+  - first:
+      74: -1063635547286966896
+    second: FrontGunR|FrontThings001|Take 001|BaseLayer
+  - first:
+      74: 6069799681289903579
+    second: FrontGunR|FrontThings|Take 001|BaseLayer
+  - first:
+      74: -7537950721902719679
+    second: FrontGunR|Graper|Take 001|BaseLayer
+  - first:
+      74: 3491432740150282657
+    second: FrontGunR|GunL|Take 001|BaseLayer
+  - first:
+      74: -3842243048574197876
+    second: FrontGunR|GunProtectionL|Take 001|BaseLayer
+  - first:
+      74: -673150172857660314
+    second: FrontGunR|GunProtectionR|Take 001|BaseLayer
+  - first:
+      74: 3260583387725281757
+    second: FrontGunR|GunRotation|Take 001|BaseLayer
+  - first:
+      74: -7064096445853261709
+    second: FrontGunR|GunR|Take 001|BaseLayer
+  - first:
+      74: -2874483885038259164
+    second: FrontGunR|GunSupport|Take 001|BaseLayer
+  - first:
+      74: 6763944762281734539
+    second: FrontGunR|Loft002|Take 001|BaseLayer
+  - first:
+      74: 2270829389145702788
+    second: FrontGunR|MiddleGunMovementL|Take 001|BaseLayer
+  - first:
+      74: 7007372152732744260
+    second: FrontGunR|MiddleGunMovementR|Take 001|BaseLayer
+  - first:
+      74: -2507229573641059092
+    second: FrontGunR|PhotometricLight001|Take 001|BaseLayer
+  - first:
+      74: -4859271733901866722
+    second: FrontGunR|PhotometricLight002|Take 001|BaseLayer
+  - first:
+      74: -3104702845879191860
+    second: FrontGunR|PhotometricLight003|Take 001|BaseLayer
+  - first:
+      74: 6062834627507139393
+    second: FrontGunR|Plane001|Take 001|BaseLayer
+  - first:
+      74: 8694549071471836272
+    second: FrontGunR|Rectangle001|Take 001|BaseLayer
+  - first:
+      74: 1100259402124551415
+    second: FrontGunR|ScopeRotation|Take 001|BaseLayer
+  - first:
+      74: -3329011849341723131
+    second: FrontGunR|Scope|Take 001|BaseLayer
+  - first:
+      74: 6602328780700838814
+    second: FrontGunR|ShieldRotation|Take 001|BaseLayer
+  - first:
+      74: 4943627315041085478
+    second: FrontGunR|ShieldSupport|Take 001|BaseLayer
+  - first:
+      74: 1998052524822219102
+    second: FrontGunR|ShieldSupRotation|Take 001|BaseLayer
+  - first:
+      74: -1008413459840350304
+    second: FrontGunR|Shield|Take 001|BaseLayer
+  - first:
+      74: -5650771088163850387
+    second: FrontGunMovementR|Antena|Take 001|BaseLayer
+  - first:
+      74: 3770800836248624373
+    second: FrontGunMovementR|BackGunL|Take 001|BaseLayer
+  - first:
+      74: 9086885711111762493
+    second: FrontGunMovementR|BackGunMovementL|Take 001|BaseLayer
+  - first:
+      74: -4737279469184293262
+    second: FrontGunMovementR|BackGunMovementR|Take 001|BaseLayer
+  - first:
+      74: 1877191406085789130
+    second: FrontGunMovementR|BackGunR|Take 001|BaseLayer
+  - first:
+      74: -3817279019545768690
+    second: FrontGunMovementR|Base|Take 001|BaseLayer
+  - first:
+      74: -7728412262155858538
+    second: FrontGunMovementR|BodyRotation|Take 001|BaseLayer
+  - first:
+      74: -3759292568950141845
+    second: FrontGunMovementR|Body|Take 001|BaseLayer
+  - first:
+      74: -8692471095039295891
+    second: FrontGunMovementR|ChamferBox001|Take 001|BaseLayer
+  - first:
+      74: -2368241058325497764
+    second: FrontGunMovementR|Cylinder001|Take 001|BaseLayer
+  - first:
+      74: -4220603849736909078
+    second: FrontGunMovementR|FrontGunL|Take 001|BaseLayer
+  - first:
+      74: 8841245888244930153
+    second: FrontGunMovementR|FrontGunMovementL|Take 001|BaseLayer
+  - first:
+      74: -2544789415523715355
+    second: FrontGunMovementR|FrontGunMovementR|Take 001|BaseLayer
+  - first:
+      74: 7100085902739425910
+    second: FrontGunMovementR|FrontGunR|Take 001|BaseLayer
+  - first:
+      74: -7435638451021173277
+    second: FrontGunMovementR|FrontThings001|Take 001|BaseLayer
+  - first:
+      74: -3168674597720712676
+    second: FrontGunMovementR|FrontThings|Take 001|BaseLayer
+  - first:
+      74: -3075612040505320281
+    second: FrontGunMovementR|Graper|Take 001|BaseLayer
+  - first:
+      74: -8630815487334926852
+    second: FrontGunMovementR|GunL|Take 001|BaseLayer
+  - first:
+      74: -4730951679346474835
+    second: FrontGunMovementR|GunProtectionL|Take 001|BaseLayer
+  - first:
+      74: 4488182717168348095
+    second: FrontGunMovementR|GunProtectionR|Take 001|BaseLayer
+  - first:
+      74: -3552117737698580574
+    second: FrontGunMovementR|GunRotation|Take 001|BaseLayer
+  - first:
+      74: -2301951391375940328
+    second: FrontGunMovementR|GunR|Take 001|BaseLayer
+  - first:
+      74: 5831088616524328598
+    second: FrontGunMovementR|GunSupport|Take 001|BaseLayer
+  - first:
+      74: 514316400506373275
+    second: FrontGunMovementR|Loft002|Take 001|BaseLayer
+  - first:
+      74: 3490941267241222037
+    second: FrontGunMovementR|MiddleGunMovementL|Take 001|BaseLayer
+  - first:
+      74: 7770931805641593601
+    second: FrontGunMovementR|MiddleGunMovementR|Take 001|BaseLayer
+  - first:
+      74: 8296782263502580151
+    second: FrontGunMovementR|PhotometricLight001|Take 001|BaseLayer
+  - first:
+      74: -6630218493282076603
+    second: FrontGunMovementR|PhotometricLight002|Take 001|BaseLayer
+  - first:
+      74: 1526737941682525975
+    second: FrontGunMovementR|PhotometricLight003|Take 001|BaseLayer
+  - first:
+      74: -1055404089477394511
+    second: FrontGunMovementR|Plane001|Take 001|BaseLayer
+  - first:
+      74: 5001610838179183614
+    second: FrontGunMovementR|Rectangle001|Take 001|BaseLayer
+  - first:
+      74: -6029554951921166352
+    second: FrontGunMovementR|ScopeRotation|Take 001|BaseLayer
+  - first:
+      74: -1799305182168050590
+    second: FrontGunMovementR|Scope|Take 001|BaseLayer
+  - first:
+      74: -7105465307877473569
+    second: FrontGunMovementR|ShieldRotation|Take 001|BaseLayer
+  - first:
+      74: 4024066639529519127
+    second: FrontGunMovementR|ShieldSupport|Take 001|BaseLayer
+  - first:
+      74: -8234666794690822674
+    second: FrontGunMovementR|ShieldSupRotation|Take 001|BaseLayer
+  - first:
+      74: -7366840493546434158
+    second: FrontGunMovementR|Shield|Take 001|BaseLayer
+  - first:
+      74: 396656130301533648
+    second: MiddleGunMovementR|Antena|Take 001|BaseLayer
+  - first:
+      74: 1066436485471750096
+    second: MiddleGunMovementR|BackGunL|Take 001|BaseLayer
+  - first:
+      74: -7346396484006528956
+    second: MiddleGunMovementR|BackGunMovementL|Take 001|BaseLayer
+  - first:
+      74: 7434596205534077271
+    second: MiddleGunMovementR|BackGunMovementR|Take 001|BaseLayer
+  - first:
+      74: -3401600955600052575
+    second: MiddleGunMovementR|BackGunR|Take 001|BaseLayer
+  - first:
+      74: -1991048318770492228
+    second: MiddleGunMovementR|Base|Take 001|BaseLayer
+  - first:
+      74: 6679383260098478000
+    second: MiddleGunMovementR|BodyRotation|Take 001|BaseLayer
+  - first:
+      74: -2641178567089254086
+    second: MiddleGunMovementR|Body|Take 001|BaseLayer
+  - first:
+      74: 5831691171714756709
+    second: MiddleGunMovementR|ChamferBox001|Take 001|BaseLayer
+  - first:
+      74: 2841793867641981986
+    second: MiddleGunMovementR|Cylinder001|Take 001|BaseLayer
+  - first:
+      74: 5335718439267768896
+    second: MiddleGunMovementR|FrontGunL|Take 001|BaseLayer
+  - first:
+      74: -3926370987096845464
+    second: MiddleGunMovementR|FrontGunMovementL|Take 001|BaseLayer
+  - first:
+      74: -5231708158058894500
+    second: MiddleGunMovementR|FrontGunMovementR|Take 001|BaseLayer
+  - first:
+      74: -7546425413722194006
+    second: MiddleGunMovementR|FrontGunR|Take 001|BaseLayer
+  - first:
+      74: -195725246593471700
+    second: MiddleGunMovementR|FrontThings001|Take 001|BaseLayer
+  - first:
+      74: 1107787528919174577
+    second: MiddleGunMovementR|FrontThings|Take 001|BaseLayer
+  - first:
+      74: -1213107392833110492
+    second: MiddleGunMovementR|Graper|Take 001|BaseLayer
+  - first:
+      74: -177670191135636687
+    second: MiddleGunMovementR|GunL|Take 001|BaseLayer
+  - first:
+      74: -8805946492712590927
+    second: MiddleGunMovementR|GunProtectionL|Take 001|BaseLayer
+  - first:
+      74: -466983643350978488
+    second: MiddleGunMovementR|GunProtectionR|Take 001|BaseLayer
+  - first:
+      74: 3346156657780588849
+    second: MiddleGunMovementR|GunRotation|Take 001|BaseLayer
+  - first:
+      74: 6415187707324487100
+    second: MiddleGunMovementR|GunR|Take 001|BaseLayer
+  - first:
+      74: -4639280862313906443
+    second: MiddleGunMovementR|GunSupport|Take 001|BaseLayer
+  - first:
+      74: -7028017418184097748
+    second: MiddleGunMovementR|Loft002|Take 001|BaseLayer
+  - first:
+      74: -1759108550776651567
+    second: MiddleGunMovementR|MiddleGunMovementL|Take 001|BaseLayer
+  - first:
+      74: -8379730327270338225
+    second: MiddleGunMovementR|MiddleGunMovementR|Take 001|BaseLayer
+  - first:
+      74: -179602070615080477
+    second: MiddleGunMovementR|PhotometricLight001|Take 001|BaseLayer
+  - first:
+      74: 2323310842997615803
+    second: MiddleGunMovementR|PhotometricLight002|Take 001|BaseLayer
+  - first:
+      74: 7143348031763894435
+    second: MiddleGunMovementR|PhotometricLight003|Take 001|BaseLayer
+  - first:
+      74: -2073313618463622697
+    second: MiddleGunMovementR|Plane001|Take 001|BaseLayer
+  - first:
+      74: 2654163406379270901
+    second: MiddleGunMovementR|Rectangle001|Take 001|BaseLayer
+  - first:
+      74: 4868893254075877996
+    second: MiddleGunMovementR|ScopeRotation|Take 001|BaseLayer
+  - first:
+      74: -789040911271531637
+    second: MiddleGunMovementR|Scope|Take 001|BaseLayer
+  - first:
+      74: 5257742069959881478
+    second: MiddleGunMovementR|ShieldRotation|Take 001|BaseLayer
+  - first:
+      74: 3530575027206388059
+    second: MiddleGunMovementR|ShieldSupport|Take 001|BaseLayer
+  - first:
+      74: 4927928609943534571
+    second: MiddleGunMovementR|ShieldSupRotation|Take 001|BaseLayer
+  - first:
+      74: -287555548223226916
+    second: MiddleGunMovementR|Shield|Take 001|BaseLayer
+  - first:
+      74: -3200757060177292727
+    second: GunProtectionL|Antena|Take 001|BaseLayer
+  - first:
+      74: -3131696923083210619
+    second: GunProtectionL|BackGunL|Take 001|BaseLayer
+  - first:
+      74: -8057507107923093159
+    second: GunProtectionL|BackGunMovementL|Take 001|BaseLayer
+  - first:
+      74: -1661710031501874990
+    second: GunProtectionL|BackGunMovementR|Take 001|BaseLayer
+  - first:
+      74: 2447608066040739345
+    second: GunProtectionL|BackGunR|Take 001|BaseLayer
+  - first:
+      74: 5742058640401473185
+    second: GunProtectionL|Base|Take 001|BaseLayer
+  - first:
+      74: 4679530467418295126
+    second: GunProtectionL|BodyRotation|Take 001|BaseLayer
+  - first:
+      74: 8546035400756845809
+    second: GunProtectionL|Body|Take 001|BaseLayer
+  - first:
+      74: -5714901148025838383
+    second: GunProtectionL|ChamferBox001|Take 001|BaseLayer
+  - first:
+      74: -2921230977790174491
+    second: GunProtectionL|Cylinder001|Take 001|BaseLayer
+  - first:
+      74: 8456355019446518208
+    second: GunProtectionL|FrontGunL|Take 001|BaseLayer
+  - first:
+      74: -6884020879473978577
+    second: GunProtectionL|FrontGunMovementL|Take 001|BaseLayer
+  - first:
+      74: -3558093866027395417
+    second: GunProtectionL|FrontGunMovementR|Take 001|BaseLayer
+  - first:
+      74: 5289499700972636973
+    second: GunProtectionL|FrontGunR|Take 001|BaseLayer
+  - first:
+      74: -6826295359693354468
+    second: GunProtectionL|FrontThings001|Take 001|BaseLayer
+  - first:
+      74: 2748433548384964824
+    second: GunProtectionL|FrontThings|Take 001|BaseLayer
+  - first:
+      74: -1425953484283589156
+    second: GunProtectionL|Graper|Take 001|BaseLayer
+  - first:
+      74: -4483418400379165644
+    second: GunProtectionL|GunL|Take 001|BaseLayer
+  - first:
+      74: -4728058110653477357
+    second: GunProtectionL|GunProtectionL|Take 001|BaseLayer
+  - first:
+      74: 4036657658318426953
+    second: GunProtectionL|GunProtectionR|Take 001|BaseLayer
+  - first:
+      74: -3944448323880909329
+    second: GunProtectionL|GunRotation|Take 001|BaseLayer
+  - first:
+      74: -7704154962390000961
+    second: GunProtectionL|GunR|Take 001|BaseLayer
+  - first:
+      74: 1316346951390879764
+    second: GunProtectionL|GunSupport|Take 001|BaseLayer
+  - first:
+      74: -7654525261210689511
+    second: GunProtectionL|Loft002|Take 001|BaseLayer
+  - first:
+      74: 7105804057414659487
+    second: GunProtectionL|MiddleGunMovementL|Take 001|BaseLayer
+  - first:
+      74: 4720587618425331729
+    second: GunProtectionL|MiddleGunMovementR|Take 001|BaseLayer
+  - first:
+      74: 2934125345581462184
+    second: GunProtectionL|PhotometricLight001|Take 001|BaseLayer
+  - first:
+      74: 1279306380540638694
+    second: GunProtectionL|PhotometricLight002|Take 001|BaseLayer
+  - first:
+      74: 7015527346388614912
+    second: GunProtectionL|PhotometricLight003|Take 001|BaseLayer
+  - first:
+      74: -2612500119596258681
+    second: GunProtectionL|Plane001|Take 001|BaseLayer
+  - first:
+      74: -8293116219951828066
+    second: GunProtectionL|Rectangle001|Take 001|BaseLayer
+  - first:
+      74: 443843192509985592
+    second: GunProtectionL|ScopeRotation|Take 001|BaseLayer
+  - first:
+      74: -9167361429558701147
+    second: GunProtectionL|Scope|Take 001|BaseLayer
+  - first:
+      74: 6999956596999136451
+    second: GunProtectionL|ShieldRotation|Take 001|BaseLayer
+  - first:
+      74: -2376506003533400325
+    second: GunProtectionL|ShieldSupport|Take 001|BaseLayer
+  - first:
+      74: -6960692162417042301
+    second: GunProtectionL|ShieldSupRotation|Take 001|BaseLayer
+  - first:
+      74: 5700565422253663665
+    second: GunProtectionL|Shield|Take 001|BaseLayer
+  - first:
+      74: -813939376760056095
+    second: GunL|Antena|Take 001|BaseLayer
+  - first:
+      74: 7241155669222520927
+    second: GunL|BackGunL|Take 001|BaseLayer
+  - first:
+      74: 7138031875090326219
+    second: GunL|BackGunMovementL|Take 001|BaseLayer
+  - first:
+      74: 5077128003343743342
+    second: GunL|BackGunMovementR|Take 001|BaseLayer
+  - first:
+      74: -6248291357343741095
+    second: GunL|BackGunR|Take 001|BaseLayer
+  - first:
+      74: 6501225273695799159
+    second: GunL|Base|Take 001|BaseLayer
+  - first:
+      74: 336658350322897256
+    second: GunL|BodyRotation|Take 001|BaseLayer
+  - first:
+      74: -6899075021599599597
+    second: GunL|Body|Take 001|BaseLayer
+  - first:
+      74: -2168275162126275576
+    second: GunL|ChamferBox001|Take 001|BaseLayer
+  - first:
+      74: -8763808852462497376
+    second: GunL|Cylinder001|Take 001|BaseLayer
+  - first:
+      74: -5574323988874454827
+    second: GunL|FrontGunL|Take 001|BaseLayer
+  - first:
+      74: -2167350696221371904
+    second: GunL|FrontGunMovementL|Take 001|BaseLayer
+  - first:
+      74: 2392035375318112290
+    second: GunL|FrontGunMovementR|Take 001|BaseLayer
+  - first:
+      74: 4017416603601105832
+    second: GunL|FrontGunR|Take 001|BaseLayer
+  - first:
+      74: -2611730825772376109
+    second: GunL|FrontThings001|Take 001|BaseLayer
+  - first:
+      74: 6945535587981172466
+    second: GunL|FrontThings|Take 001|BaseLayer
+  - first:
+      74: 9005391595412351045
+    second: GunL|Graper|Take 001|BaseLayer
+  - first:
+      74: -4664977621624484276
+    second: GunL|GunL|Take 001|BaseLayer
+  - first:
+      74: -2559501875701120784
+    second: GunL|GunProtectionL|Take 001|BaseLayer
+  - first:
+      74: -6402418405133836280
+    second: GunL|GunProtectionR|Take 001|BaseLayer
+  - first:
+      74: -232948596682077067
+    second: GunL|GunRotation|Take 001|BaseLayer
+  - first:
+      74: 4865491391981966326
+    second: GunL|GunR|Take 001|BaseLayer
+  - first:
+      74: -822353492630876354
+    second: GunL|GunSupport|Take 001|BaseLayer
+  - first:
+      74: -3464113778555069073
+    second: GunL|Loft002|Take 001|BaseLayer
+  - first:
+      74: -6585522236674958435
+    second: GunL|MiddleGunMovementL|Take 001|BaseLayer
+  - first:
+      74: -1536499654859532753
+    second: GunL|MiddleGunMovementR|Take 001|BaseLayer
+  - first:
+      74: -6621852859969122237
+    second: GunL|PhotometricLight001|Take 001|BaseLayer
+  - first:
+      74: -3208855702442737541
+    second: GunL|PhotometricLight002|Take 001|BaseLayer
+  - first:
+      74: 7235284244065775232
+    second: GunL|PhotometricLight003|Take 001|BaseLayer
+  - first:
+      74: 4920399719201903473
+    second: GunL|Plane001|Take 001|BaseLayer
+  - first:
+      74: -7284166101800339526
+    second: GunL|Rectangle001|Take 001|BaseLayer
+  - first:
+      74: 3299861770291072451
+    second: GunL|ScopeRotation|Take 001|BaseLayer
+  - first:
+      74: -6432208705565566024
+    second: GunL|Scope|Take 001|BaseLayer
+  - first:
+      74: -2976979877576112253
+    second: GunL|ShieldRotation|Take 001|BaseLayer
+  - first:
+      74: 3146432495642020273
+    second: GunL|ShieldSupport|Take 001|BaseLayer
+  - first:
+      74: -7946929840624064494
+    second: GunL|ShieldSupRotation|Take 001|BaseLayer
+  - first:
+      74: 7257037553849086709
+    second: GunL|Shield|Take 001|BaseLayer
+  - first:
+      74: -4498926088904064429
+    second: BackGunMovementL|Antena|Take 001|BaseLayer
+  - first:
+      74: -3334367547170772792
+    second: BackGunMovementL|BackGunL|Take 001|BaseLayer
+  - first:
+      74: -9102670940662658173
+    second: BackGunMovementL|BackGunMovementL|Take 001|BaseLayer
+  - first:
+      74: -5809055160543026059
+    second: BackGunMovementL|BackGunMovementR|Take 001|BaseLayer
+  - first:
+      74: 8553744709530550459
+    second: BackGunMovementL|BackGunR|Take 001|BaseLayer
+  - first:
+      74: -2039039519823659267
+    second: BackGunMovementL|Base|Take 001|BaseLayer
+  - first:
+      74: -4590101542792000191
+    second: BackGunMovementL|BodyRotation|Take 001|BaseLayer
+  - first:
+      74: -6458234809201772790
+    second: BackGunMovementL|Body|Take 001|BaseLayer
+  - first:
+      74: -3880911029066234459
+    second: BackGunMovementL|ChamferBox001|Take 001|BaseLayer
+  - first:
+      74: 3399850650526069995
+    second: BackGunMovementL|Cylinder001|Take 001|BaseLayer
+  - first:
+      74: -8222121550923904184
+    second: BackGunMovementL|FrontGunL|Take 001|BaseLayer
+  - first:
+      74: -1843084942661995284
+    second: BackGunMovementL|FrontGunMovementL|Take 001|BaseLayer
+  - first:
+      74: 7976950574160083421
+    second: BackGunMovementL|FrontGunMovementR|Take 001|BaseLayer
+  - first:
+      74: -6344139158580217145
+    second: BackGunMovementL|FrontGunR|Take 001|BaseLayer
+  - first:
+      74: -3435550274720781381
+    second: BackGunMovementL|FrontThings001|Take 001|BaseLayer
+  - first:
+      74: 7011002037214065804
+    second: BackGunMovementL|FrontThings|Take 001|BaseLayer
+  - first:
+      74: 7228124284366450143
+    second: BackGunMovementL|Graper|Take 001|BaseLayer
+  - first:
+      74: 1781586595322263892
+    second: BackGunMovementL|GunL|Take 001|BaseLayer
+  - first:
+      74: -6843382174722018140
+    second: BackGunMovementL|GunProtectionL|Take 001|BaseLayer
+  - first:
+      74: 9022256802594250907
+    second: BackGunMovementL|GunProtectionR|Take 001|BaseLayer
+  - first:
+      74: 7780515969181795208
+    second: BackGunMovementL|GunRotation|Take 001|BaseLayer
+  - first:
+      74: -6574870186152197051
+    second: BackGunMovementL|GunR|Take 001|BaseLayer
+  - first:
+      74: -8967163999140884453
+    second: BackGunMovementL|GunSupport|Take 001|BaseLayer
+  - first:
+      74: 1732454064172690766
+    second: BackGunMovementL|Loft002|Take 001|BaseLayer
+  - first:
+      74: -886778746635421502
+    second: BackGunMovementL|MiddleGunMovementL|Take 001|BaseLayer
+  - first:
+      74: 7861504983795424325
+    second: BackGunMovementL|MiddleGunMovementR|Take 001|BaseLayer
+  - first:
+      74: 5168127142216937483
+    second: BackGunMovementL|PhotometricLight001|Take 001|BaseLayer
+  - first:
+      74: -8234698423996726165
+    second: BackGunMovementL|PhotometricLight002|Take 001|BaseLayer
+  - first:
+      74: 2507326739387252639
+    second: BackGunMovementL|PhotometricLight003|Take 001|BaseLayer
+  - first:
+      74: 5119625121519541118
+    second: BackGunMovementL|Plane001|Take 001|BaseLayer
+  - first:
+      74: 7430394779463857519
+    second: BackGunMovementL|Rectangle001|Take 001|BaseLayer
+  - first:
+      74: 8518439736260375241
+    second: BackGunMovementL|ScopeRotation|Take 001|BaseLayer
+  - first:
+      74: 2517835943278609410
+    second: BackGunMovementL|Scope|Take 001|BaseLayer
+  - first:
+      74: -6982093423670394784
+    second: BackGunMovementL|ShieldRotation|Take 001|BaseLayer
+  - first:
+      74: -7427321862435470327
+    second: BackGunMovementL|ShieldSupport|Take 001|BaseLayer
+  - first:
+      74: 7807570129670644826
+    second: BackGunMovementL|ShieldSupRotation|Take 001|BaseLayer
+  - first:
+      74: 7963939421837905144
+    second: BackGunMovementL|Shield|Take 001|BaseLayer
+  - first:
+      74: 4094521946316380317
+    second: GunProtectionR|Antena|Take 001|BaseLayer
+  - first:
+      74: 4249027293710684280
+    second: GunProtectionR|BackGunL|Take 001|BaseLayer
+  - first:
+      74: -5627383951661530260
+    second: GunProtectionR|BackGunMovementL|Take 001|BaseLayer
+  - first:
+      74: 7768686832811889046
+    second: GunProtectionR|BackGunMovementR|Take 001|BaseLayer
+  - first:
+      74: 1214336877049861759
+    second: GunProtectionR|BackGunR|Take 001|BaseLayer
+  - first:
+      74: 6874250385372356151
+    second: GunProtectionR|Base|Take 001|BaseLayer
+  - first:
+      74: 1841299950393558960
+    second: GunProtectionR|BodyRotation|Take 001|BaseLayer
+  - first:
+      74: -1446846621437285016
+    second: GunProtectionR|Body|Take 001|BaseLayer
+  - first:
+      74: -197234241243670478
+    second: GunProtectionR|ChamferBox001|Take 001|BaseLayer
+  - first:
+      74: -3805785545774337511
+    second: GunProtectionR|Cylinder001|Take 001|BaseLayer
+  - first:
+      74: 6704821672123506821
+    second: GunProtectionR|FrontGunL|Take 001|BaseLayer
+  - first:
+      74: 7616025853280603448
+    second: GunProtectionR|FrontGunMovementL|Take 001|BaseLayer
+  - first:
+      74: 8938304719103525860
+    second: GunProtectionR|FrontGunMovementR|Take 001|BaseLayer
+  - first:
+      74: 8757945799365126299
+    second: GunProtectionR|FrontGunR|Take 001|BaseLayer
+  - first:
+      74: -5571044454071924270
+    second: GunProtectionR|FrontThings001|Take 001|BaseLayer
+  - first:
+      74: 7826219698125540955
+    second: GunProtectionR|FrontThings|Take 001|BaseLayer
+  - first:
+      74: -6753891233950613034
+    second: GunProtectionR|Graper|Take 001|BaseLayer
+  - first:
+      74: 892333191071500610
+    second: GunProtectionR|GunL|Take 001|BaseLayer
+  - first:
+      74: 5455562271323738730
+    second: GunProtectionR|GunProtectionL|Take 001|BaseLayer
+  - first:
+      74: -1698880897941991160
+    second: GunProtectionR|GunProtectionR|Take 001|BaseLayer
+  - first:
+      74: -789269983158170609
+    second: GunProtectionR|GunRotation|Take 001|BaseLayer
+  - first:
+      74: -7326797332197085654
+    second: GunProtectionR|GunR|Take 001|BaseLayer
+  - first:
+      74: -6679706015046815702
+    second: GunProtectionR|GunSupport|Take 001|BaseLayer
+  - first:
+      74: -8881723567135447303
+    second: GunProtectionR|Loft002|Take 001|BaseLayer
+  - first:
+      74: -1996810778235733896
+    second: GunProtectionR|MiddleGunMovementL|Take 001|BaseLayer
+  - first:
+      74: 5110644825654639868
+    second: GunProtectionR|MiddleGunMovementR|Take 001|BaseLayer
+  - first:
+      74: 6142819070664438536
+    second: GunProtectionR|PhotometricLight001|Take 001|BaseLayer
+  - first:
+      74: 4869557190838125111
+    second: GunProtectionR|PhotometricLight002|Take 001|BaseLayer
+  - first:
+      74: 242125806238290085
+    second: GunProtectionR|PhotometricLight003|Take 001|BaseLayer
+  - first:
+      74: -7750520709093575144
+    second: GunProtectionR|Plane001|Take 001|BaseLayer
+  - first:
+      74: 5795324774168309526
+    second: GunProtectionR|Rectangle001|Take 001|BaseLayer
+  - first:
+      74: -705760605963001521
+    second: GunProtectionR|ScopeRotation|Take 001|BaseLayer
+  - first:
+      74: -2119837828393682520
+    second: GunProtectionR|Scope|Take 001|BaseLayer
+  - first:
+      74: 7613482514193437097
+    second: GunProtectionR|ShieldRotation|Take 001|BaseLayer
+  - first:
+      74: -6664804704336054533
+    second: GunProtectionR|ShieldSupport|Take 001|BaseLayer
+  - first:
+      74: 3492210236375205606
+    second: GunProtectionR|ShieldSupRotation|Take 001|BaseLayer
+  - first:
+      74: -5524667168934958630
+    second: GunProtectionR|Shield|Take 001|BaseLayer
+  - first:
+      74: -5433003380104856060
+    second: GunR|Antena|Take 001|BaseLayer
+  - first:
+      74: -4428078937672666630
+    second: GunR|BackGunL|Take 001|BaseLayer
+  - first:
+      74: 5004007680513701167
+    second: GunR|BackGunMovementL|Take 001|BaseLayer
+  - first:
+      74: 7832727811816561774
+    second: GunR|BackGunMovementR|Take 001|BaseLayer
+  - first:
+      74: 57800304864872058
+    second: GunR|BackGunR|Take 001|BaseLayer
+  - first:
+      74: 276926854353349075
+    second: GunR|Base|Take 001|BaseLayer
+  - first:
+      74: -2455979232064789481
+    second: GunR|BodyRotation|Take 001|BaseLayer
+  - first:
+      74: -4395069256410895212
+    second: GunR|Body|Take 001|BaseLayer
+  - first:
+      74: 4145058082983999566
+    second: GunR|ChamferBox001|Take 001|BaseLayer
+  - first:
+      74: 4299950236743135425
+    second: GunR|Cylinder001|Take 001|BaseLayer
+  - first:
+      74: 1757399546214689985
+    second: GunR|FrontGunL|Take 001|BaseLayer
+  - first:
+      74: -5251994357665787355
+    second: GunR|FrontGunMovementL|Take 001|BaseLayer
+  - first:
+      74: -6568297514756790390
+    second: GunR|FrontGunMovementR|Take 001|BaseLayer
+  - first:
+      74: -5959366677925671708
+    second: GunR|FrontGunR|Take 001|BaseLayer
+  - first:
+      74: 1647393094013338864
+    second: GunR|FrontThings001|Take 001|BaseLayer
+  - first:
+      74: 915040659590114201
+    second: GunR|FrontThings|Take 001|BaseLayer
+  - first:
+      74: 8774413128527242327
+    second: GunR|Graper|Take 001|BaseLayer
+  - first:
+      74: 3186411641105207663
+    second: GunR|GunL|Take 001|BaseLayer
+  - first:
+      74: -1253571791106115333
+    second: GunR|GunProtectionL|Take 001|BaseLayer
+  - first:
+      74: 393315405075190437
+    second: GunR|GunProtectionR|Take 001|BaseLayer
+  - first:
+      74: 4038494277266217931
+    second: GunR|GunRotation|Take 001|BaseLayer
+  - first:
+      74: -7880296098112430011
+    second: GunR|GunR|Take 001|BaseLayer
+  - first:
+      74: 5863883815023425789
+    second: GunR|GunSupport|Take 001|BaseLayer
+  - first:
+      74: 8765077101925543972
+    second: GunR|Loft002|Take 001|BaseLayer
+  - first:
+      74: 8557307931127375797
+    second: GunR|MiddleGunMovementL|Take 001|BaseLayer
+  - first:
+      74: 2175753972045609036
+    second: GunR|MiddleGunMovementR|Take 001|BaseLayer
+  - first:
+      74: 4093229843611453964
+    second: GunR|PhotometricLight001|Take 001|BaseLayer
+  - first:
+      74: 1851670280315095152
+    second: GunR|PhotometricLight002|Take 001|BaseLayer
+  - first:
+      74: -1730316414097937918
+    second: GunR|PhotometricLight003|Take 001|BaseLayer
+  - first:
+      74: -2338861630629592187
+    second: GunR|Plane001|Take 001|BaseLayer
+  - first:
+      74: 6371535070406287198
+    second: GunR|Rectangle001|Take 001|BaseLayer
+  - first:
+      74: 8127599051517072686
+    second: GunR|ScopeRotation|Take 001|BaseLayer
+  - first:
+      74: -3631037954078469377
+    second: GunR|Scope|Take 001|BaseLayer
+  - first:
+      74: -6045612690655107776
+    second: GunR|ShieldRotation|Take 001|BaseLayer
+  - first:
+      74: 1415395835201665882
+    second: GunR|ShieldSupport|Take 001|BaseLayer
+  - first:
+      74: 1927518934443045874
+    second: GunR|ShieldSupRotation|Take 001|BaseLayer
+  - first:
+      74: 8483868357148154924
+    second: GunR|Shield|Take 001|BaseLayer
+  - first:
+      74: 3892507289606925547
+    second: BackGunMovementR|Antena|Take 001|BaseLayer
+  - first:
+      74: 2369983033318074189
+    second: BackGunMovementR|BackGunL|Take 001|BaseLayer
+  - first:
+      74: -8962443933737856476
+    second: BackGunMovementR|BackGunMovementL|Take 001|BaseLayer
+  - first:
+      74: -6897923988868180290
+    second: BackGunMovementR|BackGunMovementR|Take 001|BaseLayer
+  - first:
+      74: -1734858603149368246
+    second: BackGunMovementR|BackGunR|Take 001|BaseLayer
+  - first:
+      74: -7088035568119246327
+    second: BackGunMovementR|Base|Take 001|BaseLayer
+  - first:
+      74: -7232797955159100684
+    second: BackGunMovementR|BodyRotation|Take 001|BaseLayer
+  - first:
+      74: -7238681367340436844
+    second: BackGunMovementR|Body|Take 001|BaseLayer
+  - first:
+      74: 7684340116092721055
+    second: BackGunMovementR|ChamferBox001|Take 001|BaseLayer
+  - first:
+      74: -253620901404409528
+    second: BackGunMovementR|Cylinder001|Take 001|BaseLayer
+  - first:
+      74: -4742303500794898121
+    second: BackGunMovementR|FrontGunL|Take 001|BaseLayer
+  - first:
+      74: 6834451324910317411
+    second: BackGunMovementR|FrontGunMovementL|Take 001|BaseLayer
+  - first:
+      74: -8094612026897720176
+    second: BackGunMovementR|FrontGunMovementR|Take 001|BaseLayer
+  - first:
+      74: -8007449854521141662
+    second: BackGunMovementR|FrontGunR|Take 001|BaseLayer
+  - first:
+      74: 4892212667630018540
+    second: BackGunMovementR|FrontThings001|Take 001|BaseLayer
+  - first:
+      74: -2891721529527200539
+    second: BackGunMovementR|FrontThings|Take 001|BaseLayer
+  - first:
+      74: -6568055163298756592
+    second: BackGunMovementR|Graper|Take 001|BaseLayer
+  - first:
+      74: 5748248639131748366
+    second: BackGunMovementR|GunL|Take 001|BaseLayer
+  - first:
+      74: -7477484714091462007
+    second: BackGunMovementR|GunProtectionL|Take 001|BaseLayer
+  - first:
+      74: 8882958325644809334
+    second: BackGunMovementR|GunProtectionR|Take 001|BaseLayer
+  - first:
+      74: -7046560228144746106
+    second: BackGunMovementR|GunRotation|Take 001|BaseLayer
+  - first:
+      74: -506607799805833456
+    second: BackGunMovementR|GunR|Take 001|BaseLayer
+  - first:
+      74: -5209029591706546773
+    second: BackGunMovementR|GunSupport|Take 001|BaseLayer
+  - first:
+      74: 3918434800259311769
+    second: BackGunMovementR|Loft002|Take 001|BaseLayer
+  - first:
+      74: -894472209636777270
+    second: BackGunMovementR|MiddleGunMovementL|Take 001|BaseLayer
+  - first:
+      74: -3532070428496517259
+    second: BackGunMovementR|MiddleGunMovementR|Take 001|BaseLayer
+  - first:
+      74: -4806851512893284327
+    second: BackGunMovementR|PhotometricLight001|Take 001|BaseLayer
+  - first:
+      74: -7432441717641057447
+    second: BackGunMovementR|PhotometricLight002|Take 001|BaseLayer
+  - first:
+      74: 4915795625261864838
+    second: BackGunMovementR|PhotometricLight003|Take 001|BaseLayer
+  - first:
+      74: -2006532161615256105
+    second: BackGunMovementR|Plane001|Take 001|BaseLayer
+  - first:
+      74: 8544699933164420004
+    second: BackGunMovementR|Rectangle001|Take 001|BaseLayer
+  - first:
+      74: -765830683118434322
+    second: BackGunMovementR|ScopeRotation|Take 001|BaseLayer
+  - first:
+      74: 7849477822485765493
+    second: BackGunMovementR|Scope|Take 001|BaseLayer
+  - first:
+      74: -4545176353108626228
+    second: BackGunMovementR|ShieldRotation|Take 001|BaseLayer
+  - first:
+      74: -6367669779457652002
+    second: BackGunMovementR|ShieldSupport|Take 001|BaseLayer
+  - first:
+      74: -8839113229401258348
+    second: BackGunMovementR|ShieldSupRotation|Take 001|BaseLayer
+  - first:
+      74: 5490780723209068879
+    second: BackGunMovementR|Shield|Take 001|BaseLayer
+  - first:
+      74: -1312798776069915822
+    second: GunRotation|Antena|Take 001|BaseLayer
+  - first:
+      74: -7459034357954876063
+    second: GunRotation|BackGunL|Take 001|BaseLayer
+  - first:
+      74: -1015548065436440836
+    second: GunRotation|BackGunMovementL|Take 001|BaseLayer
+  - first:
+      74: 4464476258768926812
+    second: GunRotation|BackGunMovementR|Take 001|BaseLayer
+  - first:
+      74: 3842117354338340833
+    second: GunRotation|BackGunR|Take 001|BaseLayer
+  - first:
+      74: -3556537068831654050
+    second: GunRotation|Base|Take 001|BaseLayer
+  - first:
+      74: 8667813997761050594
+    second: GunRotation|BodyRotation|Take 001|BaseLayer
+  - first:
+      74: -8959400718188193652
+    second: GunRotation|Body|Take 001|BaseLayer
+  - first:
+      74: -6213294116365761378
+    second: GunRotation|ChamferBox001|Take 001|BaseLayer
+  - first:
+      74: -4013569973867009257
+    second: GunRotation|Cylinder001|Take 001|BaseLayer
+  - first:
+      74: -8491721368162319107
+    second: GunRotation|FrontGunL|Take 001|BaseLayer
+  - first:
+      74: 3572132737975874061
+    second: GunRotation|FrontGunMovementL|Take 001|BaseLayer
+  - first:
+      74: 2076046771982784898
+    second: GunRotation|FrontGunMovementR|Take 001|BaseLayer
+  - first:
+      74: -3812184167468639745
+    second: GunRotation|FrontGunR|Take 001|BaseLayer
+  - first:
+      74: -8772385398651320540
+    second: GunRotation|FrontThings001|Take 001|BaseLayer
+  - first:
+      74: 3776448330194060322
+    second: GunRotation|FrontThings|Take 001|BaseLayer
+  - first:
+      74: 5919880738725391894
+    second: GunRotation|Graper|Take 001|BaseLayer
+  - first:
+      74: -3883554051558964301
+    second: GunRotation|GunL|Take 001|BaseLayer
+  - first:
+      74: -4531785555549016273
+    second: GunRotation|GunProtectionL|Take 001|BaseLayer
+  - first:
+      74: 2678068722173263943
+    second: GunRotation|GunProtectionR|Take 001|BaseLayer
+  - first:
+      74: -1425339923993677006
+    second: GunRotation|GunRotation|Take 001|BaseLayer
+  - first:
+      74: -4675009552057898530
+    second: GunRotation|GunR|Take 001|BaseLayer
+  - first:
+      74: -5086925454578247672
+    second: GunRotation|GunSupport|Take 001|BaseLayer
+  - first:
+      74: -8044422835712838679
+    second: GunRotation|Loft002|Take 001|BaseLayer
+  - first:
+      74: -3845639843510732090
+    second: GunRotation|MiddleGunMovementL|Take 001|BaseLayer
+  - first:
+      74: -1038994194750135415
+    second: GunRotation|MiddleGunMovementR|Take 001|BaseLayer
+  - first:
+      74: -3734444565400801299
+    second: GunRotation|PhotometricLight001|Take 001|BaseLayer
+  - first:
+      74: -3049307822699394690
+    second: GunRotation|PhotometricLight002|Take 001|BaseLayer
+  - first:
+      74: 4848582952936999126
+    second: GunRotation|PhotometricLight003|Take 001|BaseLayer
+  - first:
+      74: -3289313750481264574
+    second: GunRotation|Plane001|Take 001|BaseLayer
+  - first:
+      74: 2598183240188829755
+    second: GunRotation|Rectangle001|Take 001|BaseLayer
+  - first:
+      74: -3965325626480364885
+    second: GunRotation|ScopeRotation|Take 001|BaseLayer
+  - first:
+      74: -5065540144778283923
+    second: GunRotation|Scope|Take 001|BaseLayer
+  - first:
+      74: -3807016996081484041
+    second: GunRotation|ShieldRotation|Take 001|BaseLayer
+  - first:
+      74: 967571789549799459
+    second: GunRotation|ShieldSupport|Take 001|BaseLayer
+  - first:
+      74: -8547825822202687542
+    second: GunRotation|ShieldSupRotation|Take 001|BaseLayer
+  - first:
+      74: 1695816122074968403
+    second: GunRotation|Shield|Take 001|BaseLayer
+  - first:
+      74: 57274320063213841
+    second: BodyRotation|Antena|Take 001|BaseLayer
+  - first:
+      74: 1681231169206289885
+    second: BodyRotation|BackGunL|Take 001|BaseLayer
+  - first:
+      74: -7804270076666552717
+    second: BodyRotation|BackGunMovementL|Take 001|BaseLayer
+  - first:
+      74: 4171179211718904024
+    second: BodyRotation|BackGunMovementR|Take 001|BaseLayer
+  - first:
+      74: 431893503253689450
+    second: BodyRotation|BackGunR|Take 001|BaseLayer
+  - first:
+      74: -8937428469519792355
+    second: BodyRotation|Base|Take 001|BaseLayer
+  - first:
+      74: 7840394423682280439
+    second: BodyRotation|BodyRotation|Take 001|BaseLayer
+  - first:
+      74: 2167853768600324983
+    second: BodyRotation|Body|Take 001|BaseLayer
+  - first:
+      74: 6436759472796386176
+    second: BodyRotation|ChamferBox001|Take 001|BaseLayer
+  - first:
+      74: 6599261848752224856
+    second: BodyRotation|Cylinder001|Take 001|BaseLayer
+  - first:
+      74: -1178934781986768685
+    second: BodyRotation|FrontGunL|Take 001|BaseLayer
+  - first:
+      74: 1777174537813304024
+    second: BodyRotation|FrontGunMovementL|Take 001|BaseLayer
+  - first:
+      74: 5940036129889332749
+    second: BodyRotation|FrontGunMovementR|Take 001|BaseLayer
+  - first:
+      74: -1845956185099309995
+    second: BodyRotation|FrontGunR|Take 001|BaseLayer
+  - first:
+      74: 5958070411680445632
+    second: BodyRotation|FrontThings001|Take 001|BaseLayer
+  - first:
+      74: 1614792784526598923
+    second: BodyRotation|FrontThings|Take 001|BaseLayer
+  - first:
+      74: 3470194797408179055
+    second: BodyRotation|Graper|Take 001|BaseLayer
+  - first:
+      74: 8706270354601929916
+    second: BodyRotation|GunL|Take 001|BaseLayer
+  - first:
+      74: -5599009902923018357
+    second: BodyRotation|GunProtectionL|Take 001|BaseLayer
+  - first:
+      74: 873503434417535196
+    second: BodyRotation|GunProtectionR|Take 001|BaseLayer
+  - first:
+      74: -7725976976402912495
+    second: BodyRotation|GunRotation|Take 001|BaseLayer
+  - first:
+      74: -5263574243462015106
+    second: BodyRotation|GunR|Take 001|BaseLayer
+  - first:
+      74: -6979771468689314706
+    second: BodyRotation|GunSupport|Take 001|BaseLayer
+  - first:
+      74: 1274826956726369023
+    second: BodyRotation|Loft002|Take 001|BaseLayer
+  - first:
+      74: 7287326704519645120
+    second: BodyRotation|MiddleGunMovementL|Take 001|BaseLayer
+  - first:
+      74: -5652717916008513488
+    second: BodyRotation|MiddleGunMovementR|Take 001|BaseLayer
+  - first:
+      74: 7984482300486385161
+    second: BodyRotation|PhotometricLight001|Take 001|BaseLayer
+  - first:
+      74: 7684772947094885727
+    second: BodyRotation|PhotometricLight002|Take 001|BaseLayer
+  - first:
+      74: -5023465805913372076
+    second: BodyRotation|PhotometricLight003|Take 001|BaseLayer
+  - first:
+      74: 8690800048229038938
+    second: BodyRotation|Plane001|Take 001|BaseLayer
+  - first:
+      74: -640430349641824107
+    second: BodyRotation|Rectangle001|Take 001|BaseLayer
+  - first:
+      74: 2555735570611361012
+    second: BodyRotation|ScopeRotation|Take 001|BaseLayer
+  - first:
+      74: 1874875775395365104
+    second: BodyRotation|Scope|Take 001|BaseLayer
+  - first:
+      74: -6843212626659738517
+    second: BodyRotation|ShieldRotation|Take 001|BaseLayer
+  - first:
+      74: -8782743962087612598
+    second: BodyRotation|ShieldSupport|Take 001|BaseLayer
+  - first:
+      74: -8650725261857340222
+    second: BodyRotation|ShieldSupRotation|Take 001|BaseLayer
+  - first:
+      74: -429846761254186100
+    second: BodyRotation|Shield|Take 001|BaseLayer
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: UV
+    second: {fileID: 2100000, guid: fa8189f25d02b2a4f88789b3dab8f2c1, type: 2}
+  materials:
+    materialImportMode: 2
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 0
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 3
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    sortHierarchyByName: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    fileIdsGeneration: 2
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    keepQuads: 0
+    weldVertices: 1
+    bakeAxisConversion: 0
+    preserveHierarchy: 0
+    skinWeightsMode: 0
+    maxBonesPerVertex: 4
+    minBoneWeight: 0.001
+    meshOptimizationFlags: -1
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVMarginMethod: 1
+    secondaryUVMinLightmapResolution: 40
+    secondaryUVMinObjectScale: 1
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  referencedClips: []
+  importAnimation: 1
+  humanDescription:
+    serializedVersion: 3
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    globalScale: 3
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  autoGenerateAvatarMappingIfUnspecified: 1
+  animationType: 2
+  humanoidOversampling: 1
+  avatarSetup: 0
+  addHumanoidExtraRootOnlyWhenUsingAvatar: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
