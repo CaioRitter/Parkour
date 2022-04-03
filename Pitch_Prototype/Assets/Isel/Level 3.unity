@@ -10849,10 +10849,22 @@ PrefabInstance:
       propertyPath: m_LocalPosition.z
       value: -9.57
       objectReference: {fileID: 0}
+    - target: {fileID: 3146852847311163393, guid: f136555109c96e544813e597eb344600, type: 3}
+      propertyPath: m_IsActive
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5511672189911784916, guid: f136555109c96e544813e597eb344600, type: 3}
+      propertyPath: m_Sprite
+      value: 
+      objectReference: {fileID: 21300000, guid: 963c6fea9e4f15349b3ccd44a3da41ae, type: 3}
     - target: {fileID: 6009481801559132655, guid: f136555109c96e544813e597eb344600, type: 3}
       propertyPath: m_Materials.Array.data[0]
       value: 
-      objectReference: {fileID: 2100000, guid: b7e7b9fee8a11a6419e61a29a3c55ab9, type: 2}
+      objectReference: {fileID: 2100000, guid: 2a69e698417854346bd1d8e7454ab5fc, type: 2}
+    - target: {fileID: 6062061408426148770, guid: f136555109c96e544813e597eb344600, type: 3}
+      propertyPath: m_SpriteState.m_HighlightedSprite
+      value: 
+      objectReference: {fileID: 21300000, guid: 06cb5ea1cd35a2e45af4647dc3a2e396, type: 3}
     - target: {fileID: 7726340104531403909, guid: f136555109c96e544813e597eb344600, type: 3}
       propertyPath: m_Name
       value: Playercontroller
