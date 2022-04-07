@@ -30477,6 +30477,18 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 1523112322732788753, guid: b266c25232bb4b54b97a14ba380ae2cd, type: 3}
+      propertyPath: _data._json
+      value: '{"declarations":{"collection":{"$content":[{"name":"EnemyRange","value":{"$content":0,"$type":"UnityEngine.Object"},"$version":"A"},{"name":"AttackZone","value":{"$content":1,"$type":"UnityEngine.Object"},"$version":"A"},{"name":"DamageZone","value":{"$content":2,"$type":"UnityEngine.Object"},"$version":"A"}],"$version":"A"},"$version":"A"}}'
+      objectReference: {fileID: 0}
+    - target: {fileID: 1523112322732788753, guid: b266c25232bb4b54b97a14ba380ae2cd, type: 3}
+      propertyPath: _data._objectReferences.Array.size
+      value: 3
+      objectReference: {fileID: 0}
+    - target: {fileID: 1523112322732788753, guid: b266c25232bb4b54b97a14ba380ae2cd, type: 3}
+      propertyPath: _data._objectReferences.Array.data[3]
+      value: 
+      objectReference: {fileID: 0}
     - target: {fileID: 1523112322732788755, guid: b266c25232bb4b54b97a14ba380ae2cd, type: 3}
       propertyPath: m_Name
       value: Baton Police
