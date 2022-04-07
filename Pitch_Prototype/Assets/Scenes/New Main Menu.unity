@@ -2752,8 +2752,8 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: 421, y: -278}
-  m_SizeDelta: {x: 339.76, y: 230.5}
+  m_AnchoredPosition: {x: 444, y: -278}
+  m_SizeDelta: {x: 454, y: 224.6}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &2007991512
 MonoBehaviour:
@@ -2788,18 +2788,18 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: 'Conlon McMoody Rae
+  m_Text: 'Conlon Moody-Mcrae
 
-    Daniel Ngyuen
+    Daniel Nguyen
 
-    Caio RItter
+    Caio Ritter Vargas De Queiroz
 
-    Isel Williams
+    Isel
+    Williams
 
-    Junhao
-    Chen
+    Junhao Gan
 
-    Damon W'
+    Damon Whitlock'
 --- !u!222 &2007991513
 CanvasRenderer:
   m_ObjectHideFlags: 0
