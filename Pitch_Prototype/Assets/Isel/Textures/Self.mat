@@ -1,6 +1,6 @@
 %YAML 1.1
 %TAG !u! tag:unity3d.com,2011:
---- !u!114 &-8849651956544881899
+--- !u!114 &-580637229105862324
 MonoBehaviour:
   m_ObjectHideFlags: 11
   m_CorrespondingSourceObject: {fileID: 0}
@@ -20,9 +20,9 @@ Material:
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_Name: RiotPolice
+  m_Name: Self
   m_Shader: {fileID: 4800000, guid: 933532a4fcc9baf4fa0491de14d08ed7, type: 3}
-  m_ShaderKeywords: _EMISSION
+  m_ShaderKeywords: _EMISSION _METALLICSPECGLOSSMAP _NORMALMAP
   m_LightmapFlags: 2
   m_EnableInstancingVariants: 0
   m_DoubleSidedGI: 0
@@ -34,11 +34,11 @@ Material:
     serializedVersion: 3
     m_TexEnvs:
     - _BaseMap:
-        m_Texture: {fileID: 2800000, guid: cf1d3d51a10aa854ab0df85cb1c1aab3, type: 3}
+        m_Texture: {fileID: 2800000, guid: 127c3e149d17fbf45a314ee207ed1125, type: 3}
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
     - _BumpMap:
-        m_Texture: {fileID: 2800000, guid: ee76989750434f54ba2e8c57ac8492c3, type: 3}
+        m_Texture: {fileID: 2800000, guid: 81db95570a9e54f4eb45dda64d3a1679, type: 3}
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
     - _DetailAlbedoMap:
@@ -54,15 +54,15 @@ Material:
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
     - _EmissionMap:
-        m_Texture: {fileID: 2800000, guid: 693ac37767475fc42a27becb7a75e15d, type: 3}
+        m_Texture: {fileID: 2800000, guid: f0f4bfeef296747409f1d6f0663b0b26, type: 3}
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
     - _MainTex:
-        m_Texture: {fileID: 0}
+        m_Texture: {fileID: 2800000, guid: 127c3e149d17fbf45a314ee207ed1125, type: 3}
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
     - _MetallicGlossMap:
-        m_Texture: {fileID: 2800000, guid: f203c5029eeb0e749b12fff7d4c04a3c, type: 3}
+        m_Texture: {fileID: 2800000, guid: 1d8f4f471c4728845851a37612ae2a7f, type: 3}
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
     - _OcclusionMap:
