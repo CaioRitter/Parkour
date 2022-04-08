@@ -28,8 +28,8 @@ Transform:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 319605453}
-  m_LocalRotation: {x: -0, y: -0, z: 0, w: 1}
-  m_LocalPosition: {x: 0.000000039932274, y: 1.4999998, z: -9.57}
+  m_LocalRotation: {x: -0, y: 0.0000009238719, z: -0, w: 1}
+  m_LocalPosition: {x: 0.009982317, y: 1.6700001, z: -11.91}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 7726340104531403913}
@@ -810,7 +810,7 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1736283141}
   m_LocalRotation: {x: 0.0000000037212873, y: -0.046349477, z: 1.7266527e-10, w: 0.9989253}
-  m_LocalPosition: {x: 0.8899999, y: 1.4999998, z: -9.569999}
+  m_LocalPosition: {x: 0.89, y: 1.5, z: -9.57}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children:
   - {fileID: 1857847499}
@@ -1002,7 +1002,7 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1908988953}
   m_LocalRotation: {x: 0.0000000037212873, y: -0.046349477, z: 1.7266527e-10, w: 0.9989253}
-  m_LocalPosition: {x: 0.000000039932274, y: 1.4999998, z: -9.57}
+  m_LocalPosition: {x: 0, y: 1.5, z: -9.57}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children:
   - {fileID: 402870075}
@@ -2055,7 +2055,7 @@ PrefabInstance:
     - target: {fileID: 73745348711484343, guid: 157b8994c410638498c8d7d5b2194d11, type: 3}
       propertyPath: m_Sprite
       value: 
-      objectReference: {fileID: 21300000, guid: c41ebe71f6b48bc4a87bdc4cf3fc2baa, type: 3}
+      objectReference: {fileID: 21300000, guid: 4f3f585ab1d12454980a2eab0b313558, type: 3}
     - target: {fileID: 73745348711484343, guid: 157b8994c410638498c8d7d5b2194d11, type: 3}
       propertyPath: m_Color.b
       value: 0
@@ -2083,7 +2083,7 @@ PrefabInstance:
     - target: {fileID: 2953931011200177022, guid: 157b8994c410638498c8d7d5b2194d11, type: 3}
       propertyPath: m_Sprite
       value: 
-      objectReference: {fileID: 21300000, guid: 2affa74a44688af43b2d723de0506def, type: 3}
+      objectReference: {fileID: 21300000, guid: 8d8f6ae0b0e626d40b03e2e7697f44f7, type: 3}
     - target: {fileID: 3117527710980614209, guid: 157b8994c410638498c8d7d5b2194d11, type: 3}
       propertyPath: m_SpriteState.m_HighlightedSprite
       value: 
