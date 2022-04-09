@@ -55,15 +55,15 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: -8679921383154817045, guid: 8c8f2fb443967514888691df7995de15, type: 3}
       propertyPath: m_LocalPosition.x
-      value: -282.7441
+      value: 206.41321
       objectReference: {fileID: 0}
     - target: {fileID: -8679921383154817045, guid: 8c8f2fb443967514888691df7995de15, type: 3}
       propertyPath: m_LocalPosition.y
-      value: 12.33719
+      value: 11.080488
       objectReference: {fileID: 0}
     - target: {fileID: -8679921383154817045, guid: 8c8f2fb443967514888691df7995de15, type: 3}
       propertyPath: m_LocalPosition.z
-      value: 195.46692
+      value: 142.7991
       objectReference: {fileID: 0}
     - target: {fileID: -8679921383154817045, guid: 8c8f2fb443967514888691df7995de15, type: 3}
       propertyPath: m_LocalRotation.w
@@ -93,13 +93,17 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: -8292602938724931200, guid: 8c8f2fb443967514888691df7995de15, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: 40c5a7b1f4d72134788700a3d08cb282, type: 2}
     - target: {fileID: 907662052817044940, guid: 8c8f2fb443967514888691df7995de15, type: 3}
       propertyPath: m_Layer
       value: 12
       objectReference: {fileID: 0}
     - target: {fileID: 919132149155446097, guid: 8c8f2fb443967514888691df7995de15, type: 3}
       propertyPath: m_Name
-      value: ChainOverhang Variant
+      value: ChainOverhang Variant (7)
       objectReference: {fileID: 0}
     - target: {fileID: 919132149155446097, guid: 8c8f2fb443967514888691df7995de15, type: 3}
       propertyPath: m_Layer

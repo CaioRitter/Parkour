@@ -430,6 +430,14 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: -6513662741078026595, guid: 7d511875680e9de4390857c3e5dbb518, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: cc3184531f8b698439de3e0235051067, type: 2}
+    - target: {fileID: -1206874426333947015, guid: 7d511875680e9de4390857c3e5dbb518, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: 71cbdd4f8e6b83e4b88b63917bb95b08, type: 2}
     - target: {fileID: 919132149155446097, guid: 7d511875680e9de4390857c3e5dbb518, type: 3}
       propertyPath: m_Name
       value: RiotPolice@Idle
