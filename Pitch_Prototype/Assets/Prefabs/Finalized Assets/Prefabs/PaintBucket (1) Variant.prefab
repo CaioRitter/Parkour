@@ -83,6 +83,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: PaintBucket (1) Variant
       objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 55dff753a8f98084bbca8147cf19c005, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 4294967295
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 55dff753a8f98084bbca8147cf19c005, type: 3}
 --- !u!1 &1356138850028092732 stripped
