@@ -38,7 +38,7 @@ RenderSettings:
   m_ReflectionIntensity: 1
   m_CustomReflection: {fileID: 0}
   m_Sun: {fileID: 0}
-  m_IndirectSpecularColor: {r: 0.45136744, g: 0.5003775, b: 0.5697475, a: 1}
+  m_IndirectSpecularColor: {r: 0.13471615, g: 0.14837316, b: 0.16128165, a: 1}
   m_UseRadianceAmbientProbe: 0
 --- !u!157 &3
 LightmapSettings:
@@ -51680,6 +51680,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Cyberpunk Directional Light
       objectReference: {fileID: 0}
+    - target: {fileID: 4457753675895567530, guid: a8d426090c32ffa4896119c15a29311c, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 4294967295
+      objectReference: {fileID: 0}
     - target: {fileID: 4457753675895567540, guid: a8d426090c32ffa4896119c15a29311c, type: 3}
       propertyPath: m_RootOrder
       value: 240
@@ -51698,31 +51702,31 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 4457753675895567540, guid: a8d426090c32ffa4896119c15a29311c, type: 3}
       propertyPath: m_LocalRotation.w
-      value: 0.85181355
+      value: 0.74062324
       objectReference: {fileID: 0}
     - target: {fileID: 4457753675895567540, guid: a8d426090c32ffa4896119c15a29311c, type: 3}
       propertyPath: m_LocalRotation.x
-      value: 0.47908938
+      value: 0.66730005
       objectReference: {fileID: 0}
     - target: {fileID: 4457753675895567540, guid: a8d426090c32ffa4896119c15a29311c, type: 3}
       propertyPath: m_LocalRotation.y
-      value: 0.18466192
+      value: 0.052655205
       objectReference: {fileID: 0}
     - target: {fileID: 4457753675895567540, guid: a8d426090c32ffa4896119c15a29311c, type: 3}
       propertyPath: m_LocalRotation.z
-      value: -0.103860274
+      value: 0.058440894
       objectReference: {fileID: 0}
     - target: {fileID: 4457753675895567540, guid: a8d426090c32ffa4896119c15a29311c, type: 3}
       propertyPath: m_LocalEulerAnglesHint.x
-      value: 58.71
+      value: 79.198
       objectReference: {fileID: 0}
     - target: {fileID: 4457753675895567540, guid: a8d426090c32ffa4896119c15a29311c, type: 3}
       propertyPath: m_LocalEulerAnglesHint.y
-      value: 24.463
+      value: 56.34
       objectReference: {fileID: 0}
     - target: {fileID: 4457753675895567540, guid: a8d426090c32ffa4896119c15a29311c, type: 3}
       propertyPath: m_LocalEulerAnglesHint.z
-      value: 0
+      value: 56.811
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: a8d426090c32ffa4896119c15a29311c, type: 3}
